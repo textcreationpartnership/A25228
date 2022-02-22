@@ -1,0 +1,817 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some queries to Protestants answered and an explanation of the Roman Catholick's belief in four great points considered : I. concerning their church, II. their worship, III. justification, IV. civil government.</title>
+            <author>Altham, Michael, 1633-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 117 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25228</idno>
+            <idno type="STC">Wing A2934</idno>
+            <idno type="STC">ESTC R8650</idno>
+            <idno type="EEBO-CITATION">12640863</idno>
+            <idno type="OCLC">ocm 12640863</idno>
+            <idno type="VID">65014</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25228)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65014)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 340:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some queries to Protestants answered and an explanation of the Roman Catholick's belief in four great points considered : I. concerning their church, II. their worship, III. justification, IV. civil government.</title>
+                  <author>Altham, Michael, 1633-1705.</author>
+               </titleStmt>
+               <extent>[4], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printd by J.H. for Luke Meredith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Michael Altham. Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65014:1"/>
+            <pb facs="tcp:65014:1" rendition="simple:additions"/>
+            <p>SOME QUERIES TO PROTESTANTS <hi>ANSWERED.</hi> And an EXPLANATION of the Roman Catholick's <hi>BELIEF</hi> IN Four Great Points CONSIDERED.
+<list>
+                  <item>I. Concerning their <hi>Church.</hi>
+                  </item>
+                  <item>II. Their <hi>Worſhip.</hi>
+                  </item>
+                  <item>III. <hi>Juſtification.</hi>
+                  </item>
+                  <item>IV. <hi>Civil Government.</hi>
+                  </item>
+               </list>
+            </p>
+            <floatingText type="license" xml:lang="eng" subtype="imprimatur">
+               <body>
+                  <p>IMPRIMATUR.</p>
+                  <closer>
+                     <dateline>Ex Aedib. <hi>Lambeth.</hi> 
+                        <date>
+                           <hi>Mar.</hi> 4. 1685.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Guil. Needham</hi> RR<hi rend="sup">mo.</hi> in Chriſto P. ac D. D. <hi>Wilhelmo</hi> Archie<g ref="char:EOLhyphen"/>piſc. <hi>Cantuar.</hi> a Sacr. Domeſt.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. H.</hi> for <hi>Luke Meredith,</hi> at the <hi>King's Head</hi> at the Weſt End of St. <hi>Paul's Church-Yard.</hi> MDCLXXXVI.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:65014:2"/>
+            <pb facs="tcp:65014:2"/>
+            <head>To the READER.</head>
+            <p>NOT many days ſince, I had ſome Papers put into my Hands; which ſo ſoon as I had an oppor<g ref="char:EOLhyphen"/>tunity, I opened and peruſed. The firſt I found intitu<g ref="char:EOLhyphen"/>led, ſome Queries to Proteſtants. The next, Queries of Religion or Liberty. And the laſt, an Explanation of Roman Catholick's Belief, concerning theſe 4 points. Their Church, Worſhip, Juſtification, and Civil Go<g ref="char:EOLhyphen"/>vernment, as it was preſented to ſome Perſons of Qua<g ref="char:EOLhyphen"/>lity for their particular Satisfaction. By theſe Papers I found that the <hi>Roman</hi> Emiſſaries were very buſie, compaſſing Sea and Land to gain Proſelytes. And be<g ref="char:EOLhyphen"/>cauſe they have had no good luck by open and fair dea<g ref="char:EOLhyphen"/>ling, they now take another courſe; They creep into Houſes, and privately inſinuate themſelves into the acquaintance of unwary People. Which when they have once done, they begin their work; which is by puzzeling queſtions, and falſe repreſentations of their Religion, to unfix the minds of men; and then take occaſion of their unſetled<g ref="char:EOLhyphen"/>neſs to draw them over to their party. Now ſeeing our Adverſaries are ſo diligent, certainly it behooves us to be very watchfull; and by all lawfull ways and means to countermine their cunning Craftineſs, and arm our ſelves againſt their devices. <g ref="char:V">Ʋ</g>pon this conſideration, I thought it might be no diſſervice either to private Chriſtians, or the Church of which I am a Member to take theſe Papers into conſideration; and by ſhſw,
+<pb facs="tcp:65014:3"/> Anſwers to the Queries, and a brief Animadverſion up<g ref="char:EOLhyphen"/>on the Explanation, to put weapons into the hands of others, wherewith they might defend themſelves againſt their Aſſaults.</p>
+            <p>This is the deſign of theſe few following ſheets, where<g ref="char:EOLhyphen"/>in I have ſtudied nothing more than Brevity and Plain<g ref="char:EOLhyphen"/>neſs. To the firſt Paper of Queries I have given very ſhort anſwers, but I hope both plain and full. To the ſecond, becauſe the Queries ſeem to be contrived with more art and cunning, my anſwers thereunto are ſome<g ref="char:EOLhyphen"/>what more large, but I hope, not too long. And upon the Explanation of their Belief in thoſe 4 great points, I have made ſuch Animadverſions, as I hope may ſatisfie any one, that the Explainer hath not dealt ſo fairly, nor ſo ingenuouſly with his Perſons of Quality, as he ought to have done.</p>
+            <p>Whether what is here done, will anſwer the deſign of doing it, or no, I know not; but hope, by God's Bleſſing it may. In confidence therefore of the Divine bleſſing and aſſiſtance, I now, Reader, commit it into thy Hands; deſiring onely this favour, that to the reading of it, thou wilt bring an humble and teachable temper of mind; which if thou doſt, I do not doubt but it may be in ſome meaſure ſerviceable to thee at this time. Which if it be, may God have the glory, and thou the comfort and advantage of it. This is and ſhall be the hearty Prayer of</p>
+            <closer>
+               <signed>Thy faithfull friend, and fellow Chriſtian.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:65014:3"/>
+            <div type="part">
+               <head>Some <hi>QUERIES</hi> to Proteſtants anſwered.</head>
+               <div type="section">
+                  <div n="1" type="question">
+                     <p>
+                        <label>Qu. 1.</label> 
+                        <hi>WHether Divine Revelation be not the entire object of Faith, which Faith is but one, <hi>&amp;c? Eph. 4.4.</hi>
+                        </hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> Divine Revelation is both the rule ond object of Faith, which Faith is but one.</p>
+                  </div>
+                  <div n="2" type="question">
+                     <p>
+                        <label>Qu. 2.</label> 
+                        <hi>Whether Faith muſt not give an undoubted aſſent to all things revealed? <hi>Jam. 2.18.</hi>
+                        </hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> If the Revelation be Divine, there ought not to be doubting of the things revealed.</p>
+                  </div>
+                  <div n="3" type="question">
+                     <p>
+                        <label>Qu. 3.</label> 
+                        <hi>Whether theſe Revelations do not contain in them many myſteries tranſcending the natural reach of humane wit or induſtry? <hi>1 Cor. 1.10. Matth. 16.17.</hi>
+                        </hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> There are many myſteries in Religion which are above the natural reach of humane wit and induſtry, above reaſon but not con<g ref="char:EOLhyphen"/>trary to reaſon.</p>
+                  </div>
+                  <div n="4" type="question">
+                     <p>
+                        <label>Qu. 4.</label> 
+                        <hi>Whether it did not become the divine wiſedom and goodneſs to provide man ſome way or means whereby he might arrive to the knowledge of thoſe Myſteries?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> Divine Wiſedom and goodneſs hath not been wanting in the proviſion of ways and means, whereby Man may arrive to the know<g ref="char:EOLhyphen"/>ledge of thoſe Myſteries, ſo far as is neceſſary for his happineſs both here and hereafter.</p>
+                  </div>
+                  <div n="5" type="question">
+                     <p>
+                        <label>Qu. 5.</label> 
+                        <hi>Whether theſe means muſt not be viſible and apparent to all, proportionable to the capacity of all? <hi>Joh. 9.14. Mat. 11.25. 1 Joh. 5.22.</hi>
+                        </hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> The means appointed by God are viſible or inviſible, they are proportioned to the capacity of all, but it is not neceſſary they ſhould be viſible to all.</p>
+                  </div>
+                  <div n="6" type="question">
+                     <p>
+                        <label>Qu. 6.</label> 
+                        <hi>Whether theſe Myſteries were not taught by Chriſt and the Holy Ghoſt to his Apoſtles?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> Whatever is contained in the Divine Revelation, was certain<g ref="char:EOLhyphen"/>ly taught by Chriſt and the Holy Ghoſt to the Apoſtles, for he made known unto them the whole Will of God.</p>
+                  </div>
+                  <div n="7" type="question">
+                     <p>
+                        <label>Qu. 7.</label> 
+                        <hi>Did not the Apoſtles teach theſe Doctrines in almoſt all places of the world, before the Scriptures were all of them written or acknowledged to be their writings, or collected into one Body?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> The Apoſtles were faithfull Stewards, and did diſpenſe the Doctrine of the Goſpel faithfully and ſincerely in all places where they came, even before the Holy Scriptures were all written or collected into one Body.</p>
+                  </div>
+                  <div n="8" type="question">
+                     <pb n="2" facs="tcp:65014:4"/>
+                     <p>
+                        <label>Qu. 8.</label> 
+                        <hi>When they began to write the Scriptures, did they profeſs that they writ in them all and every truth which had been delivered unto them, or did they onely write them upon emergent occaſions?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> All and every truth neceſſary for the Salvation of mankind, is faithfully and fully delivered in the Holy Scriptures. And that be<g ref="char:EOLhyphen"/>ing the deſign of them, we have no reaſon to be anxious or ſolicitous about any more.</p>
+                  </div>
+                  <div n="9" type="question">
+                     <p>
+                        <label>Qu. 9.</label> 
+                        <hi>Were all divine truths neceſſary for the Salvation of mankind, for the Government of the Church, and the confounding of Errours deſignedly and expreſly delivered in them?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> The Scriptures are abundantly ſufficient to inſtruct all men in thoſe things which may ſecure their Salvation, and preſerve them from errour; And whatſoever is eſſentially neceſſary to the Being or good Go<g ref="char:EOLhyphen"/>vernment of a Church may there be found; but whatſoever may be accidentally neceſſary in reſpect of time and place, is left to the pru<g ref="char:EOLhyphen"/>dence of Governours.</p>
+                  </div>
+                  <div n="10" type="question">
+                     <p>
+                        <label>Qu. 10.</label> 
+                        <hi>Was not the ſenſe and meaning of this written word delivered at the ſame time to the Apoſtles Succeſſors?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> The Apoſtles did explain the Mind and Will of God to all to whom they preached, and the written word being deſigned not onely for the learned but unlearned, was ſet down in ſuch intelligible words as might comport with the capacities of all.</p>
+                  </div>
+                  <div n="11" type="question">
+                     <p>
+                        <label>Qu. 11.</label> 
+                        <hi>Were not thoſe Succeſſors of the Apoſtles obliged under pain of dam<g ref="char:EOLhyphen"/>nation to deliver the ſenſe and meaning to their Succeſſors, and ſo conſequent<g ref="char:EOLhyphen"/>ly to our days, or at leaſt no contrary ſenſe?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> The Succeſſors of the Apoſtles in all Ages are undoubtedly oblig'd to deliver the true ſenſe and meaning of the Holy Scriptures to others; and it were to be wiſhed that none had failed of their duty therein.</p>
+                  </div>
+                  <div n="12" type="question">
+                     <p>
+                        <label>Qu. 12.</label> 
+                        <hi>Whether all that is mentioned in Scripture be not true, according to the ſenſe and meaning ſo delivered?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> All that is mentioned in Scripture is undoubtedly true, accor<g ref="char:EOLhyphen"/>ding to the true ſenſe and meaning thereof.</p>
+                  </div>
+                  <div n="13" type="question">
+                     <p>
+                        <label>Qu. 13.</label> 
+                        <hi>Whether an obſtinate Contradiction of any one truth thus deli<g ref="char:EOLhyphen"/>vered in Scripture (though there appear no neceſſity it ſhould have been menti<g ref="char:EOLhyphen"/>oned in Scripture) be not injurious to that divine Authority and veracity, and which unrepented of ſhall bring damnation?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> An obſtinate contradiction of any one plain truth delivered in holy Scripture, is certainly a very great injury to divine authority and veracity.</p>
+                  </div>
+                  <div n="14" type="question">
+                     <p>
+                        <label>Qu. 14.</label> 
+                        <hi>When difficulties did ariſe about the ſenſe of Scriptures or mat<g ref="char:EOLhyphen"/>ters of Faith, whither the diciſion of thoſe controverſies was carried, and whether the preſent Church of every Age was not to decide it?</hi>
+                     </p>
+                     <pb n="3" facs="tcp:65014:4"/>
+                     <p>
+                        <label>Anſ.</label> It was undoubtedly the practice, and is moſt rational that the preſent Church in every Age ſhould decide ſuch controverſies. For, the Prieſt's Lips ſhould preſerve knowledge, and they ſhould enquire the Law at his mouth. And no queſtion the Church hath Authority to declare matters of Faith, but not to make any new Articles of Faith.</p>
+                  </div>
+                  <div n="15" type="question">
+                     <p>
+                        <label>Qu. 15.</label> 
+                        <hi>Whether every particular perſon was to have an Authoritative power in this deciſion, or whether it was not univerſally left to the Heads and Governours of the Church Aſſembled together?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> Every particular perſon hath undoubtedly a Judgment of diſ<g ref="char:EOLhyphen"/>cretion allow'd him in matters of that nature, but the Authoritative power of deciding and determining was in the Heads and Governours of the Church Aſſembled together for that end.</p>
+                  </div>
+                  <div n="16" type="question">
+                     <p>
+                        <label>Qu. 16.</label> 
+                        <hi>Whether ſuch a force of Hopes or Fears could poſſibly happen at once upon all the Heads of the univerſal Church Aſſembled together, or after conſenting to thoſe that were Aſſembled, as ſhould make them declare that to be a truth revealed by Chriſt, which was not ſo delivered to them to have been the ever eſteemed ſenſe of Scripture or perpetual tradition which was not ſo?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> Whilſt men are men they will be liable to hopes and fears, and ſubject to the power and force of them; if therefore we conſider the Heads and Governours of the Church as ſuch we cannot allow them an Exemption therefrom; and conſequently there may be no impoſſibility in the things propounded. We grant that in a General Council lawfully aſſembled, we have great reaſon to hope for the pre<g ref="char:EOLhyphen"/>ſence, direction and aſſiſtance of the Holy Ghoſt, <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>t how far the paſ<g ref="char:EOLhyphen"/>ſions and humours of men may fruſtrate our Hopes, we know not. This we certainly know, that the Acts of one Council have been made void by another, and therefore it is more than probable that one of them did declare ſomething to be a truth revealed by Chriſt, which was not ſo delivered unto them.</p>
+                  </div>
+                  <div n="17" type="question">
+                     <p>
+                        <label>Qu. 17.</label> 
+                        <hi>Whether the Deciſions of ſuch Aſſemblies or general Councils were not always eſteemed obligatory in the Church, and whether particular Perſons or Churches obſtinately gainſaying ſuch Deciſions received by a much Major part of the Church diffuſed, were not always eſteemed to have incur<g ref="char:EOLhyphen"/>red thoſe Anathema's pronounced by ſuch Councils?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> If thoſe Aſſemblies or Councils be truly general, we do very much reverence their Authority, and think their deciſions to be obli<g ref="char:EOLhyphen"/>gatory. But we do not think all to be ſuch that are called ſo; As for inſtance, The Council of <hi>Trent</hi> is by ſome ſort of men looked upon as a general Council, and all their Religion almoſt built upon the Authority thereof; and yet the Church of <hi>England</hi> never received the deciſions of that Council, nor did the <hi>Galican</hi> Church for many years; and
+<pb n="4" facs="tcp:65014:5"/> yet neither the one nor the other did for all that eſteem themſelves to have incurred the Anathema's pronounced by that Council.</p>
+                  </div>
+                  <div n="18" type="question">
+                     <p>
+                        <label>Qu. 18.</label> 
+                        <hi>Whether the univerſal Church did not in all Ages practice this way of deciding controverſies, and whether theſe be not as univerſal a tra<g ref="char:EOLhyphen"/>dition of this, as the practice was univerſal without interruption?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> Univerſal practice will amount to an univerſal Tradition, and that this hath been the practice of the Church in all Ages, eſpecially in matters of great weight, we deny not; nor ſhould we oppoſe the ſame courſe now, provided the Council were free and general.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>But the Enquirer goes on,</head>
+                  <p>
+                     <hi>Some will perhaps ſay that ſuch Councils cannot Err in fundamentals but may in not fundamentals. I ask theſe,</hi>
+                  </p>
+                  <div type="question">
+                     <p>
+                        <label>Qu.</label> 
+                        <hi>What are fundamentals and what not?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> Thoſe things which are eſſentially neceſſary to the being of Re<g ref="char:EOLhyphen"/>ligion may properly be called fundamental; but thoſe things which only reſpect order and decency therein, and vary according to time and place, and are alterable by the Governours of the Church, when they ſee cauſe theſe are not fundamental.</p>
+                  </div>
+                  <div type="question">
+                     <p>
+                        <label>Qu.</label> 
+                        <hi>Whether there be not ſome things fundamentals to the Church, which are not to every particular?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> There may be ſome things fundamental to the Being of a Church, which are not ſo to every particular member of that Church, but what<g ref="char:EOLhyphen"/>ſoever things are <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ndamental to the Being of Religion, are equally ſo to the whole Church and every member thereof.</p>
+                  </div>
+                  <div type="question">
+                     <p>
+                        <label>Qu.</label> 
+                        <hi>Whether an obſtinate denyal of what is fundamental or neceſſary to the univerſal Church, or granting as I may ſay upon what is fundamental by a particular perſon, be not in time a fundamental Errour, eſpecially after an univerſal declaration of it as truth delivered by Chriſt and his Apoſtles?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> This Query as it is here worded is hardly reconcileable to ſenſe, but I ſuppoſe his meaning is, Whether for any particular perſon ob<g ref="char:EOLhyphen"/>ſtinately to deny what is fundamental or neceſſary to the univerſal Church, and declared to be a truth delivered by Chriſt and his Apoſ<g ref="char:EOLhyphen"/>tles be not a fundamental Errour? To which I anſwer. That every particular Chriſtian ought with all deference to ſubmit his own private Judgment to the publick Judgment of the Church, and though it do not appear ſo plain to him, yet he ought rather to ſuſpect his own than that of the Church. But if in ſome things he cannot be ſatisfied, and therein happen to differ from the Church, provided he do not there<g ref="char:EOLhyphen"/>by break the peace and unity of the Church, it will hardly amount to a fundamental Errour. But what if it be declared by the Church to be
+<pb n="5" facs="tcp:65014:5"/> a truth delivered by Chriſt and his Apoſtles, will not that make it ſo? To this I anſwer, That no declaration of the Church, how univerſal ſoever it be, can make that to be a truth delivered by Chriſt and his Apoſtles, which really is not ſo And therefore in that caſe we muſt have recourſe to their Writings, and if it be not either in expreſs words contained therein, or by ſound conſequence drawn therefrom, we ought not to comply with it, nor is it a fundamental Errour to differ therein.</p>
+                  </div>
+                  <div type="question">
+                     <p>
+                        <label>Qu.</label> 
+                        <hi>Whether the univerſal Church aſſembled in a General Council ought not to be juſtly eſteemed the decider of what is fundamental, and what not?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> When the univerſal Church by her proper Repreſentatives is law<g ref="char:EOLhyphen"/>fully aſſembled in a Council truly General, that Council without all diſpute will be a very proper Judge of what is fundamental, and what not; but this is rather to be prayed than hoped for.</p>
+                  </div>
+                  <div type="question">
+                     <p>
+                        <label>Qu.</label> 
+                        <hi>Whether an obſtinate denial of any one truth delivered by Jeſus Chriſt or his Apoſtles (though the delivery was not abſolutely neceſſary to Salvation) may not be called a fundamental errour, ſeeing it brings the reſt he delivered in queſtion, as alſo his veracity?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> The denial of any one truth delivered by Jeſus Chriſt or his Apo<g ref="char:EOLhyphen"/>ſtles is a very great fault, and if that denial be obſtinately continued in, after plain conviction that it is ſuch a truth, it is a very dangerous Errour.</p>
+                  </div>
+                  <div type="question">
+                     <p>
+                        <label>Qu.</label> 
+                        <hi>Whether therefore the denial of any one truth delivered to us by an uninterrupted tradition, as taught by Chriſt and his Apoſtles, would not be a fundamental Errour?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> There is a great difference between a thing delivered as taught, and plainly taught, by Chriſt and his Apoſtles; for we meet with many things delivered as taught by them. and tradition pretended for them, which really and in truth were never taught by them, or either of them; aed to deny ſuch is ſo far from being a fundamental Errour, that it is no Errour at all. There is alſo a great difference between traditions. If by tradition he mean the holy Scriptures, we grant that to deny any thing that is plainly and clearly taught therein, is a very great Er<g ref="char:EOLhyphen"/>rour: But if by tradition he mean ſuch as is meerly humane, and not clearly warranted by the Word of God, we think we ought to reject ſuch, how uninterrupted ſoever they be; for <hi>if an Angel from Heaven preach any other Goſpel than hath been preached, let him he accurſed,</hi> ſaith St. <hi>Paul.</hi>
+                     </p>
+                  </div>
+                  <div type="question">
+                     <p>
+                        <label>Qu.</label> 
+                        <hi>And on the other ſide, whether the teaching of any Doctrine (onely piouſly believed, but) ſufficiently known not to have been expreſly, or by a natural conſequence delivered by Christ and his Apoſtles, and which may upon that account be falſe, not having Divine Revelation (which alone is in<g ref="char:EOLhyphen"/>fallible)
+<pb n="6" facs="tcp:65014:6"/> for its ground; whether, I ſay, the teaching ſuch a Doctrine ſo known, as one that was delivered by Chriſt, (when they know it was not) would not be a fundamental Errour?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> Whoſoever teacheth ſuch Doctrines as are mentioned in this Query, and in that manner, is highly guilty; and when the Enquirer ſhall think fit to be more particular, and produce his inſtances, he may expect a more particular anſwer, and perhaps be told at whoſe door this charge will lie: In the mean time this general anſwer may ſuffice.</p>
+                  </div>
+                  <div type="question">
+                     <p>
+                        <label>Qu.</label> 
+                        <hi>Whether Chriſt having taken care (as ſome grant) that his Church ſhould not err in fundamentals, hath not conſequently taken care that ſhe ſhould not teach any one Doctrine as delivered by Chriſt, and conſequently of Faith, which was not taught by him, and conſequently might be an Errour?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> Chriſt hath taken all care poſſible to ſecure his Church from Errour, and hath given her his gracious promiſe to be with her to the end of the World. But the Church being compoſed of men, and ſuch as are fallible, the ſecurity is not promiſed to particulars. Particular perſons, and particular Churches too, we know, not only may, but have, groſly erred. The ſecurity therefore is only promiſed to the Uni<g ref="char:EOLhyphen"/>verſal Church; and when he tells us what he means by that, he may expect a more direct anſwer to his Query.</p>
+                  </div>
+                  <div type="question">
+                     <p>
+                        <label>Qu.</label> 
+                        <hi>Whether thoſe Doctrines, or moſt of them, controverted now by Pro<g ref="char:EOLhyphen"/>teſtants, have not been taught and believed in the Church as Doctrines delive<g ref="char:EOLhyphen"/>red by Chriſt, long before <hi>Luther,</hi> yea and delivered in the moſt General Coun<g ref="char:EOLhyphen"/>cils thoſe Ages would permit, and accepted of by the Church diffuſive, none that we know of diſſenting, but thoſe condemned in thoſe Councils for Here<g ref="char:EOLhyphen"/>ticks, and whoſe Hereſies expired almoſt with themſelves?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> It is now plain that this Enquirer, by the Church, and univerſal Church ſo often mentioned by him, doth all along mean the Church of <hi>Rome,</hi> which we are ſo far from complying with him in, that though we own that Church to be a Member, yet we cannot allow it to be a ſound Member of the Catholick Church. And if by the Deciſions and Declara<g ref="char:EOLhyphen"/>tions of the Church, he mean the determinations of that Church, they are no further obligatory than to her own Members, nor many of them to them neither, if ſtrictly enquired into. As for <hi>Luther,</hi> we do not receive our Religion from him, but from Jeſus Chriſt; and for any Doctrines now controverted, we are content to have the ſame determined by the Holy Scriptures, and the four firſt General Councils. As for the Councils our Enquirer hints at, we deny that they were truly General, or that all their deciſions were ever accepted of by the Church diffuſive. And he cannot but know that there were many more, not only Perſons, but whole Churches, which did diſſent from them.</p>
+                  </div>
+                  <div type="question">
+                     <p>
+                        <label>Qu.</label> 
+                        <hi>Whether there was from the firſt <hi>400</hi> years, till the time of <hi>Luther,</hi>
+                           <pb n="7" facs="tcp:65014:6"/> any known body of Paſtors and Teachers declaring a diſſent in any Age from thoſe Doctrines, and oppoſing thoſe Councils; and whether the <hi>Greek</hi> Churches did not, and do to this very day conſent with this Weſtern Church in moſt points now controverted by Proteſtants?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> This Query is prepoſterouſly put, for how ſhould any body of Paſtors and Teachers in the firſt 400 years oppoſe themſelves to thoſe Councils which were not then in being, nor heard of till many hundred years afterwards? But that the Fathers in thoſe firſt Ages did teach the ſame Doctrines we now do, we appeal to the Records of thoſe times. And that thoſe after-Councils by him mentioned, were diſſenters from thoſe of the firſt Ages, we are contented to be tried by comparing the Acts of both together. And that the <hi>Greek</hi> Church did, or now doth, agree with the Church of <hi>Rome</hi> in all or moſt of thoſe points now in difference between her and us, we utterly deny, and challenge him to the proof of it.</p>
+                  </div>
+                  <div type="question">
+                     <p>
+                        <label>Qu.</label> 
+                        <hi>Whether <hi>Luther</hi> (the firſt Author of Proteſtancy) did not ſeparate himſelf from the whole viſible Church at that time ſpread over the Weſt, contradicting all the Prelates and Paſtors then living in the univerſal practice of that Church, and the General Councils received as ſuch by the foregoing Ages?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> As for the names of <hi>Proteſtant</hi> and <hi>Papiſt,</hi> I look upon them as names of diſtinction, not of Religion. The Religion we both own is Chriſtian: This we do not receive from <hi>Luther,</hi> nor they from <hi>Ignatius Loyala,</hi> St. <hi>Francis,</hi> or any ſuch, but both of us from Jeſus Chriſt; The only queſtion is, Whether they or we hold that Religion in greateſt purity? 'Tis true that <hi>Luther</hi> in his time did more narrowly look into the corruptions of the Church of <hi>Rome,</hi> declared againſt them, and on that account ſeparated from her Communion, and for any thing yet appears may be very well juſtified in ſo doing. For, if any Church ſhall make terms of her Communion ſo ſinful and dangerous that no man with ſafety to his Soul can continue in it, it will be high time to come out of it.</p>
+                  </div>
+                  <div type="question">
+                     <p>
+                        <label>Qu.</label> 
+                        <hi>Whether he or Proteſtants at preſent do pretend to ſuch Demonſtration for thoſe Tenets they hold contrary to the <hi>Roman</hi> Church, (the then onely viſible Church in the Weſt) that no underſtanding, to which it is ſufficiently propoſed, can in the leaſt doubt of it?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> We have ſuch evidence for the Doctrines which we hold and teach in oppoſition to the Church of <hi>Rome,</hi> as, being ſufficiently propoſed, no man can reaſonably doubt of. And as for thoſe who will ſcruple without reaſon, notwithſtanding the cleareſt evidence that the nature of the thing will bear, we can only pity and pray for them.</p>
+                  </div>
+                  <div type="question">
+                     <p>
+                        <label>Qu.</label> 
+                        <hi>Or whether they do not rather ſay, that being fallible, they may err,
+<pb n="8" facs="tcp:65014:7"/> even in what they think a Demonſtration; and if they may err, perhaps they have erred even in their Reformation?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> We do not pretend to infallibility, nor do we think that the claim which the Biſhop of <hi>Rome</hi> makes to it is any more than a groundleſs pretence only. But <hi>à poſſe ad eſſe non valet conſequentia,</hi> from a bare poſſibility of erring, to argue a certainty that we have erred in every thing we have done, is an argument fitter to be offered to Children than Men.</p>
+                  </div>
+                  <div type="question">
+                     <p>
+                        <label>Qu.</label> 
+                        <hi>Whether therefore denying theſe Doctrines thus delivered by the Church in all Ages, as Doctrines delivered by Chriſt and his Apoſtles, upon no better grounds than theſe, <hi>perhaps they may be true, and perhaps not,</hi> be not a putting ones ſelf into the danger of erring even in fundamentals?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> We deny no Doctrines delivered by the Church in all Ages, as Doctrines delivered by Chriſt and his Apoſtles; nor do we own any Doctrine upon ſuch weak grounds, as <hi>perhaps they may be true, and perhaps not.</hi> But we ſay, that the preſent Church of <hi>Rome</hi> doth teach ſuch Do<g ref="char:EOLhyphen"/>ctrines as the Doctrines of Chriſt and his Apoſtles, which were never taught by the Church in all Ages, nor delivered by Chriſt and his Apoſtles; And in theſe things we oppoſe our ſelves againſt them, and think we have great reaſon ſo to do, having the holy Scriptures and the Primitive Church on our ſide. And whilſt we are thus ſupported, we have no fear of erring in fundamentals.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <head>Queries of Religion or Liberty.</head>
+               <div type="introduction">
+                  <p>WHo this Enquirer is, as I am at preſent ignorant, ſo am I not much concern'd to know; but I take him to be one who hath concei<g ref="char:EOLhyphen"/>ved a mighty opinion of himſelf and his performances. He thinks that by theſe Queries he hath ſtruck at the root of <hi>Proteſtancy,</hi> (as he and thoſe of his Perſwaſion call it) <hi>i. e.</hi> Reformed Chriſtianity, that he hath given it a fatal blow, a mortal wound, and left it groveling in the duſt without the leaſt hopes of recovery. Like that overgrown, uncircumciſed <hi>Phi<g ref="char:EOLhyphen"/>liſtine,</hi> he defieth the Armies of the Living God, and calls for a Man to fight with him; For, in the cloſe of his <hi>Queries</hi> he maketh this proud and confident challenge.</p>
+                  <q>
+                     <hi>If any give anſwer,</hi> (As if he ſhould have ſaid, if any be ſo bold and daring, ſo over confident and fool-hardy, as to undertake an An<g ref="char:EOLhyphen"/>ſwer to theſe Queries) <hi>It is deſired to be Categorical and ſhort, with<g ref="char:EOLhyphen"/>out any diſcourſes of things not demanded.</hi>
+                  </q>
+                  <p>Now whether this man do not triumph before the Victory, or whe<g ref="char:EOLhyphen"/>ther thoſe Queries be ſo unanſwerable as he believes them to be, is the thing under conſideration. And becauſe he hath not only given the Challenge, but appointed the Weapon, I ſhall neither decline the one,
+<pb n="9" facs="tcp:65014:7"/> nor the other, but according to his own method ſhall undertake his Queries in the ſame order as he hath propounded them.</p>
+               </div>
+               <div n="1" type="question">
+                  <p>
+                     <label>Qu. 1.</label> 
+                     <hi>Whether the Flock and Church of Chriſt (to whom was promiſed grace and eternal happineſs) be that company and ſociety of People chriſtened in his Name, who by order of Government, Rules, and Decrees, from him and his Apoſtles, were united in Faith, Worſhip, Diſcipline, and manner of Life, called Religion?</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> The Church of Chriſt is either Militant or Triumphant, the one on Earth, the other in Heaven; of the former of which we are now to ſpeak. The Church Militant is either Univerſal, or Particular; the former comprehending all and every Member of Chriſt's Myſtical Body, whereſoever diſperſed upon the face of the whole Earth; the latter comprizing only a certain Number of Chriſtians formed into a ſelect Body or Society, under certain Laws and Rules not differing from thoſe of the Univerſal Church. Such are all Provincial and Na<g ref="char:EOLhyphen"/>tional Churches; and though none of them may arrogate to them<g ref="char:EOLhyphen"/>ſelves the Title of <hi>the One, Holy, Catholick, and Apoſtolick Church,</hi> yet none will deny but that they are true Members thereof. This I have premiſed to prevent confuſion and miſunderſtanding: for the confound<g ref="char:EOLhyphen"/>ing of theſe two, as it often happens in diſcourſes of this kind, hath been the occaſion of great miſtakes. Thoſe of the <hi>Romiſh</hi> Perſwaſion, by <hi>the One, Holy, Catholick, and Apoſtolick Church,</hi> do uſually underſtand the Church of <hi>Rome,</hi> which though it be a manifeſt Contradiction, being the ſame with a Particular Univerſal, yet do they run away with it, and by that ſpecious and gorgeous Title think to bear down all before them, aloud proclaiming that to be the Mother and Miſtreſs of all other Churches. This thus premiſed, I ſhall now be as Catego<g ref="char:EOLhyphen"/>rical and ſhort in my Anſwer to his Query, as he can deſire: <hi>Viz.</hi> That the Flock and Church of Chriſt is a Company or Society of Peo<g ref="char:EOLhyphen"/>ple Chriſtned in his Name, who by Order of Government, rules, and decrees from him and his Apoſtles, are united in Faith, Worſhip, Diſ<g ref="char:EOLhyphen"/>cipline, and Manner of Life, called Religion.</p>
+               </div>
+               <div n="2" type="question">
+                  <p>
+                     <label>Qu. 2.</label> 
+                     <hi>Whether by Separation or Excommunication from that Society and Unity are loſt thoſe promiſes?</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> Separation and Excommunication are two things, for, though every one that is excommunicated be thereby ſeparated from that bo<g ref="char:EOLhyphen"/>dy, of which before he was a member; yet a man may be in a ſtate of Separation, without being under the doom of Excommunication. For Separation may be a voluntary Act, whereas Excommunication is a formal and Judicial Sentence, delivered by a lawful Judge, authori<g ref="char:EOLhyphen"/>zed and appointed by the Church to pronounce the ſame; by virtue whereof the ſentenced perſon is divided from the Body, ſeparated from
+<pb n="10" facs="tcp:65014:8"/> the Society, and ſhut out of the Communion of God's Church. The caſe thus ſtated, my anſwer to this Query will be as followeth, <hi>viz.</hi>
+                  </p>
+                  <p n="1">1. Whoſoever, upon any pretence whatſoever, doth ſeparate him<g ref="char:EOLhyphen"/>ſelf from the Society and Unity of the <hi>One, Holy, Catholick, and Apoſ<g ref="char:EOLhyphen"/>ſtolical Church,</hi> doth in ſo doing caſt himſelf out of the paternal care and protection of God. For, it is a certain and undoubted truth, He that hath not the Church for his Mother cannot have God for his Father. And conſequently can have no pretence to the promiſes of grace here, or eternal happineſs hereafter.</p>
+                  <p n="2">2. Whoſoever without juſt cauſe, doth ſeparate himſelf from the Society and Unity of that particular Church of which he is a member, is guilty of a ſinful and dangerous Schiſm; and whilſt he continues therein can have no roaſon to expect the bleſſing of thoſe promiſes.</p>
+                  <p n="3">3. That there may be ſometimes a juſt cauſe of Separation, as when a Church makes the conditions of her Communion ſuch, as a man can<g ref="char:EOLhyphen"/>not communicate with her, without ſin and danger. But in this caſe particular members ought to be mighty wary and cautious; for, it is not every diſſatisfaction of their own, or every irregularity of that Church, that will be a ſufficient cauſe of Separation, unleſs the terms of her Communion be manifeſtly and apparently ſinful.</p>
+                  <p n="4">4. That the great end and deſign of Excommunication is the repen<g ref="char:EOLhyphen"/>tance and amendment of the perſon excommunicated. It doth not therefore make void the promiſes of God, nor utterly deprive the ſen<g ref="char:EOLhyphen"/>tenced perſon of the benefits thereof, but onely by a temporary cor<g ref="char:EOLhyphen"/>rection ſhews him his folly and danger, and calls upon him by a time<g ref="char:EOLhyphen"/>ly repentance and amendment to recover himſelf out of the one, and prevent the other. But it muſt be acknowledged, that if a man obſti<g ref="char:EOLhyphen"/>nately continue in that condition, and live and die under that ſentence, his condition will be very dangerous.</p>
+                  <p>Theſe may ſerve as general Anſwers to this Query, but if by the Separation or Excommunication here mentioned, be meant, (as no queſtion it is) a Separation of Excommunication from the Society and Unity of the Church of <hi>Rome;</hi> Then we have this further to ſay.</p>
+                  <p n="1">1. That the preſent Church of <hi>Rome</hi> hath ſeparated her ſelf from the <hi>One, Holy, Catholick and Apoſtolick Church,</hi> by ſetting up ſuch Doctrines and practices as were never taught, practiſed, nor allowed ei<g ref="char:EOLhyphen"/>ther by Chriſt or his Apoſtles, or their Succeſſors in the Primitive Church.</p>
+                  <p n="2">2. That the preſent Church of <hi>Rome</hi> hath made the conditions of her Communion, ſuch as none without ſin and danger can Communicate with her, and by that means hath juſtified a Separation from her.</p>
+                  <p n="3">3. That the Church of <hi>Rome</hi> hath not, nor ever had any lawful
+<pb n="11" facs="tcp:65014:8"/> Power or Authority over the Church of <hi>England;</hi> nor are we Subject to the Jurisdiction of that See, whether we conſider it as Epiſcopal, or as Metropolitan, or as Patriarchal; and therefore we cannot be juſtly charged with a Separation therefrom. It is true indeed that for ſome time ſhe had Tyrannically uſurped an unjuſt power over us, and kept us in Bondage and Slavery to her; but, God be thanked, we at laſt found an opportunity to ſhake off thoſe Chains, and deliver our ſelves from the ſervitude under which we had ſo long groaned. And this we have done, and are ſtill ready to juſtifie to the whole world to be no ſinful Separation.</p>
+                  <p n="4">4. That an Excommunication thundered out by the Church of <hi>Rome</hi> againſt us of the Church of <hi>England,</hi> is but only <hi>Brutum fulmen,</hi> an inſignicant Scare-Crow, which upon mature conſideration, we have no cauſe to be afraid of; for ſhe having no power over us, we are not accountable to her, nor ſubject to any ſentence pronounced by her; And therefore notwithſtanding that pretended Separation or Excom<g ref="char:EOLhyphen"/>munication from the Society and Unity of that Church, which they make ſo much noiſe with, we are in no apprehenſion of loſing the benefits of thoſe promiſes, which God hath made to his One, Holy, Catholick and Apoſtolick Church, of Grace here and Eternal Happineſs hereafter.</p>
+               </div>
+               <div n="3" type="question">
+                  <p>
+                     <label>Qu. 3.</label> 
+                     <hi>Doth Chriſtian Religion conſiſt in matters of Morality or Ceremony, of indifferency to be accepted, or rejected, and altered at the Choice Judgment and well liking of private Perſons, Corporations, or States?</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> Religion in general may be conſidered either in its Eſſentials, or as it is cloathed with Circumſtantials. The former of which are unalter<g ref="char:EOLhyphen"/>able, but the latter may be ſubject to change. The Chriſtian Religion in particular falls under the ſame conſideration, the Being whereof conſiſts indeed in matters of Morality, which being innituted and ordained by Chriſt are not alterable by Men. But the order and de<g ref="char:EOLhyphen"/>cency, which are things neceſſary to the well being of that Religion, conſiſts in Ceremonies and things indifferent, which are in their own nature alterable, and being the inſtitutions of Men, may be altered by Men; but not by any private Perſons: For whatſoever hath been eſtabliſhed by the whole Body, cannot be altered by any particular member, or any number of Men, who are members of that Body, nor by any Authority leſs than that, by which at firſt it was eſtabliſhed. And here the Church of <hi>Rome</hi> may do well to conſider by what pow<g ref="char:EOLhyphen"/>er and authority ſhe hath made ſo bold with the very Eſſentials of the Chriſtian Religion, altering ſome and adding others, making new Ar<g ref="char:EOLhyphen"/>ticles of Faith, which were never taught by Chriſt nor his Apoſtles, and impoſing them as neceſſary to be believed by all thoſe of her Com<g ref="char:EOLhyphen"/>munion.</p>
+               </div>
+               <div n="4" type="question">
+                  <pb n="12" facs="tcp:65014:9"/>
+                  <p>
+                     <label>Qu. 4.</label> 
+                     <hi>Or doth it conſiſt in the Laws and Rules of Faith, and life of Chri<g ref="char:EOLhyphen"/>ſtians, ſo important and binding, as that by the contempt thereof one muſt loſe Eternal Happineſs?</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> This Query is very little different from the former, and hath, I think, received a ſufficient anſwer in the ſolution of that For by matters of Morality there, wherein I ſay the Being of the Chriſtian Religion doth conſiſt; I mean Moral and unchangeable truths, which are to be received and believed by all Chriſtians, and Moral actions which are to be done by them: and for our belief and performance of theſe things, we have ſuch laws and rules delivered by Chriſt and his Apoſtles, as are binding unto all; the contempt wherof may very much endanger, and without a ſerious and ſeaſonable repentance and amendment will certainly forfeit eternal happineſs. And therefore it will highly concern the Church of <hi>Rome</hi> to conſider, whether ſhe be not guilty of ſuch contempt, whether in ſome of her publick Orders and Decrees ſhe have not apparently contradicted ſome of theſe impor<g ref="char:EOLhyphen"/>tant Laws and Rules?</p>
+               </div>
+               <div n="5" type="question">
+                  <p>
+                     <label>Qu. 5.</label> 
+                     <hi>Whether thoſe Laws and Rules taught by Chriſt and his Apoſtles bind as well the Chriſtians of ſucceeding Ages (who could not be preſent to ſee and hear them) as they bound thoſe who were preſent, heard them taught, and ſaw their Original Writings?</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> That theſe Laws and Rules are as binding to me now, as they were to any of the Diſciples in our Saviour's or his Apoſtles time, I willingly grant. And if this conceſſion will do this Enquirer any ſer<g ref="char:EOLhyphen"/>vice, much good may do him with it. For, if the ſeeing of the Ori<g ref="char:EOLhyphen"/>ginal Writings of Chriſt and his Apoſtles, or being preſent to hear them deliver thoſe Laws and Rules, were neceſſary to make them obligatory, then ought we to have Chriſt and his Apoſtles come down from Heaven, and write and preach the ſame things over again, not only in every Age, but in every year &amp; every day of that year, and in all places of the world too. But let us proceed, and ſee what mighty uſe this Enquirer will make of this wire drawing this Query.</p>
+               </div>
+               <div n="6" type="question">
+                  <p>
+                     <label>Qu. 6.</label> 
+                     <hi>Whether after the death of Chriſt and his Apoſtles, and Diſciples, by his inſtitution other perſons ſucceſſively in all Ages were in order choſen, and Authorized as Paſtours and Church Magiſtrates, to preſerve, teach, and promulgate thoſe binding Rules to all Nations?</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> That the bleſſed Jeſus, out of his abundant care and goodneſs, for the carrying on of that great work which he had begun, for the promoting of that holy Religion which he had inſtituted, and the well ordering of that Church which he had founded, did appoint certain orders of Men, and endow them with gifts which might qualifie them for their ſeveral employments, we do verily believe. For St. <hi>Paul</hi> tells
+<pb n="13" facs="tcp:65014:9"/> us, God hath ſet ſome in the Church, firſt Apoſtles, ſecondarily Pro<g ref="char:EOLhyphen"/>phets, thirdly Teachers, after that Miracles, then gifts of healing, helps, governments, diverſities of tongues, 1 <hi>Cor.</hi> 12.28. And in ano<g ref="char:EOLhyphen"/>ther place he ſaith, He gave ſome Apoſtles, and ſome Prophets, and ſome Evangeliſts, and ſome Paſtours and Teachers, <hi>Eph.</hi> 4.11. But that he ever inſtituted any Officer in the Church, by the name of a Church-Magiſtrate, I never read. Yet if by his Church-Magiſtrate, he mean no more than St. <hi>Paul</hi> doth, by Governments, we ſhall not quarrel with him about the word. And that it was the work of theſe Officers to preſerve thoſe Laws and Rules which he left, and to teach and promulgate them to all Nations, we readily grant. But then what ſhall we think of thoſe, who either add thereto, or diminiſh therefrom; who either alter thoſe binding Laws and Rules, or make new ones of their own, and impoſe them upon others as if they were of equal Force and Authority with thoſe delivered by Chriſt and his Apoſtles? I could eaſily give inſtances, to ſhew that the Church of <hi>Rome</hi> is guilty both ways; but I am not willing to tranſgreſs the method which the En<g ref="char:EOLhyphen"/>quirer hath propounded, by entring upon diſcourſes of things not de<g ref="char:EOLhyphen"/>manded.</p>
+               </div>
+               <div n="7" type="question">
+                  <p>
+                     <label>Qu. 7.</label> 
+                     <hi>Were they Clergymen or Laymen by whom immediately they were choſen, and authorized in thoſe high Functions?</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> We do verily believe, being well aſſured by the Holy Scrip<g ref="char:EOLhyphen"/>tures, by the Doctrine and practice of the Apoſtles and primitive Chri<g ref="char:EOLhyphen"/>ſtians, and by the uſage and cuſtome of the Church of God in all Ages, that it onely appertains to Clergymen, by the ſolemn impoſition of hands to ſet apart others to thoſe Sacred Functions, and that they have ſufficient Power and Authority to authorize them to perform thoſe Holy Offices. I never heard this denied by any of the Reformed Re<g ref="char:EOLhyphen"/>ligion, and therefore this Enquirer might, if he had ſo pleaſed, have ſpared this Query.</p>
+               </div>
+               <div n="8" type="question">
+                  <p>
+                     <label>Qu. 8.</label> 
+                     <hi>Were all Chriſtians in ſucceeding Ages bound to believe what thoſe ſucceeding Paſtours or Supreme Church-Magiſtrates taught them, as binding Laws of Chriſt and his Apoſtles, and that the Writings by them col<g ref="char:EOLhyphen"/>lected, preſerved, and delivered in a different Language from the Original, were the true Copies of Original Apoſtolick Writings, and that the ſentence, interpretation and uſe thereof delivered by them in Supreme Councils for unity and peace, and to prevent Schiſms and Errours, were Rules which all Chri<g ref="char:EOLhyphen"/>ſtians were bound to follow?</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> This Query is a Song of three parts, to anſwer all which di<g ref="char:EOLhyphen"/>rectly, I ſhall be obliged to take it in pieces, and conſider the parts ſeverally. And though the Anſwers thereunto would very well ad<g ref="char:EOLhyphen"/>mit, and do almoſt neceſſarily require a long diſcourſe; yet I remem<g ref="char:EOLhyphen"/>ber
+<pb n="14" facs="tcp:65014:10"/> the Enquirer hath confined me to a Method, which I have promi<g ref="char:EOLhyphen"/>ſed to obſerve, and therefore in my anſwers thereunto I ſhall be as ſhort as poſſible, without entring upon diſcourſes of things not demanded.</p>
+                  <div n="1" type="question">
+                     <p>
+                        <label>Qu. 1.</label> 
+                        <hi>Were all Chriſtians in ſucceeding Ages bound to believe what thoſe ſucceeding Paſtors or Supreme Church-Magiſtrates taught them, as bin<g ref="char:EOLhyphen"/>ding Laws of Chriſt and his Apoſtles.</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> Whatever hath been taught as a binding Law of Chriſt and his Apoſtles, by all the Paſtors and Governours of the Church in all Ages, at all times, and in all places, we have no reaſon to ſuſpect. For Chriſt hath promiſed to be with his Church to the end of the World, <hi>Matt.</hi> 28.20. And to build it upon a Rock, ſo that the Gates of Hell ſhall not prevail againſt it, <hi>Matt.</hi> 16.18. And by his ſpirit of truth, to guide it into all truth, <hi>Joh.</hi> 16.13. The univerſal Church therefore being thus ſecured from errour, we have no apprehenſions of being decei<g ref="char:EOLhyphen"/>ved thereby. But though we owe this deference to the One, Holy, Catholick and Apoſtolick Church, and the united Body of the Paſtors and Governours thereof, yet no particular Church, nor any particu<g ref="char:EOLhyphen"/>lar Paſtor or Governour thereof, nor any number of them, leſs than the whole, have any reaſon to claim the ſame; for whilſt Men are Men, they are and will be fallible, and being ſo, they may and often<g ref="char:EOLhyphen"/>times do err, and though the whole Body cannot yet any particular Member may be deceived; and therefore we ought not greedily to ſwallow all that is taught by them, but to examine well what they teach, before we give our aſſent thereunto, otherwiſe we may eaſily be impoſed upon.</p>
+                  </div>
+                  <div n="2" type="question">
+                     <p>
+                        <label>Qu. 2.</label> 
+                        <hi>Were all Chriſtians in ſucceeding Ages bound to believe, that the writings collected <hi>by thoſe ſucceeding Paſtors or Supreme Church-Ma<g ref="char:EOLhyphen"/>giſtrates, and by them</hi> preſerved and delivered in a different Language from the Original, were the true Copies of Original Apoſtolick Writings?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> That the Holy Scriptures were faithfully collected and preſer<g ref="char:EOLhyphen"/>ved by the Church, and that the Copies handed down to us, though in a Language different from the Original, are true Copies, we do not at all doubt. For, we cannot imagine that the univerſal Church ſhould conſpire together to impoſe a falſhood upon poſterity. But that theſe Scriptures are the Word of God we believe not onely upon the Authority of the Church, but for ſeveral other reaſons, as this <hi>Gent.</hi> cannot but know, if he have been converſant in our Writings: which reaſons might here fitly be produced, if I were not confined by the Enquirer to a ſhort Method, and had promiſed to obſerve the ſame. I ſhall therefore onely add that if (by being bound to believe) he means, that it is a binding Law of Chriſt and his Apoſtles, that for this rea<g ref="char:EOLhyphen"/>ſon we ſhould believe thoſe Copies to be true; we deny it, becauſe
+<pb n="15" facs="tcp:65014:10"/> we cannot find any ſuch Law delivered by them. But if (by being bound to believe) he onely mean, that conſidering by whom they are handed to us, we have no reaſon to doubt of them; we readily com<g ref="char:EOLhyphen"/>ply with him.</p>
+                  </div>
+                  <div n="3" type="question">
+                     <p>
+                        <label>Qu. 3.</label> 
+                        <hi>Were all Chriſtians in ſucceeding Ages bound to believe, that the ſentence, interpretations and uſe of thoſe Writings delivered by thoſe Paſtors or Supreme Church-Magiſtrates in Supreme Councils for Unity and Peace, and to prevent Schiſms and Errours, were Rules which all Chriſtians were bound to follow?</hi>
+                     </p>
+                     <p>
+                        <label>Anſ.</label> What this Enquirer meaneth by Supreme Church-Magiſtrates and Supreme Councils, is ſomewhat hard to be underſtood; for to con<g ref="char:EOLhyphen"/>ſtitute two Supremes in one and the ſame body will make it look a little monſtrous. If by the Council being Supreme, he mean that is above the Supreme Church-Magiſtrate (<hi>i. e.</hi> the Pope, for I do not doubt but that he intends him all along by that Expreſſion) I am afraid his Holy Father will give him but ſmall thanks for that opinion. But if, by his Supreme Church-Magiſtrate, he mean that the Pope is above tha Council, then what ſignifieth the ſentence or interpretation of a Council, if not confirmed by him? So that till this caſe be rightly ſta<g ref="char:EOLhyphen"/>ted, and agreed upon amongſt them, both they and we ſhall be at a loſs, whoſe declaration is to be the Rule, which we are bound to fol<g ref="char:EOLhyphen"/>low. We do highly reverence the Authority of Councils truly gene<g ref="char:EOLhyphen"/>ral, and for any thing in diſſerence between us and the Church of <hi>Rome,</hi> we dare appeal and ſtand to the determination of the four firſt ge<g ref="char:EOLhyphen"/>neral Councils. But to be Hood winkt, and bound up by an implicit Faith, to receive and embrace every thing, that is offered to us, by thoſe who call themſelves Paſtors, or Supreme Church-Magiſtrates, or by every Convention which calls it ſelf a Supreme Council, is more than we can conſent to, and more indeed than either Chriſt or his A<g ref="char:EOLhyphen"/>poſdes required of their hearers. When neither the Doctrine prea<g ref="char:EOLhyphen"/>ched by Chriſt, nor the Miracles done by him for the confirmation of that Doctrine, could convince the ſtubborn and unbelieving <hi>Jews,</hi> that he was the <hi>Meſſiah,</hi> whither doth he ſend them? he bids them ſearch the Scriptures, <hi>Joh.</hi> 5.39. And St. <hi>Paul</hi> highly commends the <hi>Bereans,</hi> ſaying, They were more noble than thoſe of <hi>Theſſalonica,</hi> in that they received the word with all readineſs of mind, and ſearched the Scriptures daily, whether thoſe things were ſo, <hi>Act.</hi> 17.10,11. Our Saviour and his Apoſtle St. <hi>Paul,</hi> did not trouble their hearers with puzling queſtions. Whether thoſe Writings were the Word of God? How they were aſſured that they were ſo? What was the ſenſe and meaning of them? How they came to know it, <hi>&amp;c.</hi> Nor did they ſend them to the Sanhedrim, or any other Council to be inſtructed
+<pb n="16" facs="tcp:65014:11"/> therein; but they ſend them directly and immediately to the Scriptures themſelves. It was taken for granted then, and ought to be ſo now, that the Writings tranſmitted to them and us, did really and indeed contain the Word of God, and both our Saviour and St. <hi>Paul</hi> well knew, that God had delivered his mind in words ſo intelligible, that there was no fear of ſending any one thereunto. And indeed it were an unreaſonable thing that every private Chriſtian ſhould be obliged to conſult what ſenſe and meaning is put upon the Holy Scriptures by a general Council, before he receive and embrace them. Nor will it ſuffice to ſay, that they may learn it from their Paſtors and Teachers, for how ſhall they know that their Paſtors and Teachers underſtand it any better than they do, or if they do, that they give them the true and genuine ſenſe and interpretation, for they may with as much rea<g ref="char:EOLhyphen"/>ſon ſuſpect them, as they can thoſe Copies of the Sacred Writings which they have, though in a Language different from the Original. So that at this rate, Chriſtians will be involved in ſuch Intricacies and Meanders, that they will never know what they ſhould believe, and what not. And therefore, though we have a great veneration for what is delivered by Councils truly General, yet can we not conſent that that is the onely rule which all Chriſtians ought to follow.</p>
+                  </div>
+               </div>
+               <div n="9" type="question">
+                  <p>
+                     <label>Qu. 9.</label> 
+                     <hi>If not then, What other order was there left by Chriſt and his A<g ref="char:EOLhyphen"/>poſtles for the Chriſtians of ſucceeding Ages, to be truly and undoubtedly in<g ref="char:EOLhyphen"/>formed what Chriſt and his Apoſtles taught, or wrought ſo many Ages be<g ref="char:EOLhyphen"/>fore, as binding Laws to them that ſhould come after, who never heard them ſpeak, nor ſaw any of their Original Writings?</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> Even the ſame which our bleſſed Saviour recommended to the <hi>Jews,</hi> and St. <hi>Paul</hi> ſo highly commended in the <hi>Bereans, i. e.</hi> to ſearch the Scriptures, which whoſoever doth, and that with an humble and teachable temper of mind, may therein eaſily diſcover ſuch evident footſteps of Divinity, as will plainly ſpeak their Original, and ſuffici<g ref="char:EOLhyphen"/>ently inform us whence they are, and by what manner of Perſons they were written. Therein may we find all things neceſſary to our Salvation writ in Characters ſo legible that he that runs may reade them, ſo plain and eaſie, that the meaneſt capacity may underſtand them. So that to fortifie our perſwaſion that theſe are the Laws and Rules delivered by Chriſt and his Apoſtles, if we had no other way left us, this alone might ſuffice. But if any private Chriſtian meet with any thing therein, which requires ſome help for ſatisfaction, he hath Paſtors and Teachers at hand to apply himſelf unto, who are an Order of men inſtituted by Chriſt for that very end and purpoſe; and in whom, if he hath not ſome apparent reaſon to the contrary, he ought to repoſe great confidence.</p>
+               </div>
+               <div n="10" type="question">
+                  <pb n="17" facs="tcp:65014:11"/>
+                  <p>
+                     <label>Qu. 10.</label> 
+                     <hi>Whether to the Teſtimonies and Decrees of thoſe ſucceeding Pa<g ref="char:EOLhyphen"/>ſtors and Supreme Church-Magiſtrates, and to their ſentence given upon the Controverſies of Religion, riſen in divers Ages, is due, at leaſt, as much Credit and Obedience (although perhaps ſome of them might be vicious in Life) as in temporal matters is due to the Laws, Interpretations and Sen<g ref="char:EOLhyphen"/>tences of Supreme Civil Magiſtrates?</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> That as much Credit and Obedience is due to the Teſtimonies and Decrees of the Paſtors and Governours of the Church in matters of Religion, as to the Laws, Interpretations and Sentences of Civil Magiſtrates in temporal matters, I readily grant. But then we may do well to conſider how far that Credit and Obedience ought to extend both in the one and other Caſe. For, as in temporal matters, if the Commands of the Civil Magiſtrate do concern matters of Faith, <hi>i. e.</hi> things which I am required to believe; in that Caſe his Laws ought to be ſo clear and evident, as may convince my reaſon and judgment, otherwiſe I am not bound, by a blind reſignation to ſurrender up my faith and belief; for it is not in the power of man to make me think otherwiſe than I do, without ſuch convincing reaſons as may ſatisfie me that I think amiſs. But if I cannot believe as he would have me to believe, yet ought I not by publickly oppoſing his Sentiments, to raiſe a Faction, and thereby diſturb the Peace of that State in which I live. Or if the Commands of the Civil Magiſtrate concern matters of Fact, wherein my obedience is required; in that caſe if I can with a ſafe conſcience and without diſobeying God do it, I ought actively to obey the Civil Magiſtrate, but if I cannot do it without diſpleaſing God, and wounding my own Conſcience, in that caſe I ought not to reſiſt, but paſſively to obey; For, here the Apoſtles Rule will hold good. Whe<g ref="char:EOLhyphen"/>ther it be better to obey God or Man, judge ye? So in matters of Religion. If the Teſtimonies and Decrees of the Paſtours and Gover<g ref="char:EOLhyphen"/>nours of the Church do concern matters of Faith, I do acknow<g ref="char:EOLhyphen"/>ledge that there is a great deference due to their ſentence and opini<g ref="char:EOLhyphen"/>on, and unleſs there be very clear evidence to the contrary, I ought rather to ſuſpect my own than theirs; yet whatſoever Teſti<g ref="char:EOLhyphen"/>monies and Decrees are propounded by the Church, they are pro<g ref="char:EOLhyphen"/>pounded to rational men; and it muſt neceſſarily be ſuppoſed, that men ought to exerciſe that reaſon which God hath endowed them withall, in judging of the evidence upon which thoſe Teſti<g ref="char:EOLhyphen"/>monies and Decrees are built, which evidences, if they do not prove convincing and ſatisfactory, they cannot command their own belief; much leſs can any Power or Authority do it. For, to act by an implicit faith in that caſe were to act more like Brutes than Men. And therefore though we willingly own that there is as much
+<pb n="18" facs="tcp:65014:12"/> credit due to them, as to Civil Magiſtrates in the like caſe, yet can we not grant any more. Or if their Teſtimonies and Decrees con<g ref="char:EOLhyphen"/>cern matters of Fact, wherein our Obedience is required, <hi>i. e.</hi> mat<g ref="char:EOLhyphen"/>ters of Diſcipline, which reſpect the order and decency of Religion, we grant that obedience is due to them, and as much obedience as is due to Civil Magiſtrates in the like caſe; yet ſtill a Judgment of diſcre<g ref="char:EOLhyphen"/>tion is to be allowed to the Subject, how far he can with a ſafe Con<g ref="char:EOLhyphen"/>ſcience actively obey, and when and where he is to exerciſe his paſ<g ref="char:EOLhyphen"/>ſive obedience. But this caution ought to be obſerved by every pri<g ref="char:EOLhyphen"/>vate Chriſtian, that by an imprudent management of his different Sentiments he do not diſturb the Peace, nor break the Order and Unity of the Church.</p>
+               </div>
+               <div n="11" type="question">
+                  <p>
+                     <label>Qu. 11.</label> 
+                     <hi>Or hath Chriſt left ſuch liberty to all ſucceeding Chriſtians, that they need not believe, credit, or obey any the Teſtimonies, Laws, Inter<g ref="char:EOLhyphen"/>pretations, or Sentences given by any ſupreme Legal Governours, Civil or Ec<g ref="char:EOLhyphen"/>cleſiaſtical, in their reſpective Councils, further than every particular perſon in his private Judgment ſhall like, chuſe, and accept of?</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> This Query I take to be fully anſwered in the Anſwer to that immediately preceding, wherein the caſe is plainly ſtated. How far the Credit and Obedience of Inferiours is due to the Sentences and Determinations of their Superiours, whether Civil or Eccleſiaſtical. And therefore without ſaying the ſame things over again, or enlarging thereupon, I ſhall refer you thereunto.</p>
+               </div>
+               <div n="12" type="question">
+                  <p>
+                     <label>Qu. 12.</label> 
+                     <hi>Whether a few particular perſons, or ſome few of the Ma<g ref="char:EOLhyphen"/>giſtrates Civil or Eccleſiaſtical, for diſcontent or differing in Judgment, from the united body of the reſt, may under pretence of Conſcience or Refor<g ref="char:EOLhyphen"/>mation ſeparate themſelves from the United body and ſociety, and make new tranſlations and interpretations of written Laws different from the for<g ref="char:EOLhyphen"/>mer, and by force and perſwaſion draw People from their old Society, Uni<g ref="char:EOLhyphen"/>ty and Obedience, to new Congregations, Inſtitutions and Rules of their fra<g ref="char:EOLhyphen"/>ming, oppoſite and deſtructive to the former?</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> This Query conſiſts of ſeveral parts, and therefore to give a direct and appoſite Anſwer thereunto, I ſhall endeavour to obviate the ſeveral parts thereof by theſe Propoſitions following, <hi>Viz.</hi>
+                  </p>
+                  <p n="1">1. That no perſon or number of men, whether they be private Perſons, or Magiſtrates Civil or Eccleſiaſtical, ought to ſeparate them<g ref="char:EOLhyphen"/>ſelves, on any pretence whatſoever, from the body of the One, Holy, Catholick and Apoſtolick Church.</p>
+                  <p n="2">2. That diſcontent or differing in Judgment only, are no ſufficient grounds of ſeparation from any particular Church, whereof we are Members</p>
+                  <p n="3">3. That a bare pretence of Conſcience and Reformation will not
+<pb n="19" facs="tcp:65014:12"/> juſtifie a Schiſm, nor excuſe thoſe who are guilty of a Schiſmatical ſe<g ref="char:EOLhyphen"/>paration either in Church or State. For, the peace of the whole Community is far more valuable than any private man's ſatisfaction, and ought not to be laid open to the attempts of any Schiſmatical pre<g ref="char:EOLhyphen"/>tenders whatſoever.</p>
+                  <p n="4">4. That the written and eſtabliſhed Laws of God or his Vicegerents upon Earth, are not reverſible, nor alterable by any man, or num<g ref="char:EOLhyphen"/>ber of men. Becauſe they cannot pretend to that Authority, by which at firſt they were eſtabliſhed, and without that they cannot be altered. For, if we, or an Angel from Heaven, preach any other Goſpel unto you than that which we have preached unto you, let him be accurſed, ſaith St. <hi>Paul. Gal.</hi> 1.8.</p>
+                  <p n="5">5. That it is not lawfull for any perſon or perſons who are Mem<g ref="char:EOLhyphen"/>bers of an eſtabliſhed Church, either by force or perſwaſion to draw People from the Communion of that Church, and ſo break the Unity, and diſturb the Peace thereof; or by any Artifices whatſoever either to undermine or batter down the Ramparts, <hi>i. e.</hi> the eſtabliſhed Laws and Conſtitutions of that Church.</p>
+                  <p>Theſe Propoſitions put together, may ſuffice as a general Anſwer to this Query; but now to apply them to the matter in hand, <hi>i. e.</hi> the difference between us and the Church of <hi>Rome,</hi> for on that account was the Query propounded. And this I ſhall now do in theſe follow<g ref="char:EOLhyphen"/>ing particulars.</p>
+                  <p n="1">1. That the Church of <hi>Rome</hi> (though ſhe mightily pretend to it) is not that One, Holy, Catholick and Apoſtolick Church. That ſhe is a Member of the Catholick Church we grant, though we can ſcarce allow her to be a ſound Member thereof; but that ſhe ſhould pretend to be the One, Holy, Catholick and Apoſtolick Church, ei<g ref="char:EOLhyphen"/>ther diffuſive or repreſentative we cannot conſent, nor hath ſhe ever yet, or ever will be able to make goad her claim thereunto.</p>
+                  <p n="2">2. That the preſent Church of <hi>Rome</hi> is guilty of a ſinfull and ſchiſ<g ref="char:EOLhyphen"/>matical Separation from the United Body of the One, Holy, Catho<g ref="char:EOLhyphen"/>lick and Apoſtolick Church, we affirm. And that for theſe reaſons, 1. Becauſe ſhe uſurps an higher place and power in the Body Eccleſi<g ref="char:EOLhyphen"/>aſtical, than of right is due unto her, thereby breaking the Union, and diſturbing the Peace of the Church. 2. Becauſe ſhe hath voluntarily divided the Catholick Church, both in Faith, Worſhip, and Govern<g ref="char:EOLhyphen"/>ment, by her innovations. 3. By ſeparating, both by her Doctrines and Cenſures, three parts of the Chriſtian World from her Com<g ref="char:EOLhyphen"/>munion, and as much as in her lyes, from the Communion of Chriſt. 4. By rebelling againſt general Councils, and uſurping an Authority over them. 5. By breaking or taking away all the lines of Apoſtolical
+<pb n="20" facs="tcp:65014:13"/> Succeſſion except their own, and appropriating all Original Juriſdic<g ref="char:EOLhyphen"/>tion to themſelves. 6. By challenging a temporal power over Princes, either directly or indirectly, which hath been a great occaſion not only of Schiſm in the Church, but of Sedition and Rebellion in the State. All which inſtances have been charged upon, and made good againſt the Church of <hi>Rome</hi> by our Writers, and may be ſo again, whenever we are called to it.</p>
+                  <p n="3">3. It is not therefore we that have ſeparated from them, but they from us; whilſt we adhere to the united Body of the Holy, Catholick and Apoſtolick Church, which they have forſaken.</p>
+                  <p n="4">4. Nor is it we but they, who have altered the written and eſta<g ref="char:EOLhyphen"/>bliſhed Laws of God and his Church, by adding new Articles of Faith, ſuch as were never delivered by Chriſt or his Apoſtles, nor taught by the primitive Church, nor compriſed in any of thoſe Creeds received by the Church; and making them neceſſary Conditions of their Com<g ref="char:EOLhyphen"/>munion. As the Doctrines of Supremacy and Infallibility, of Indul<g ref="char:EOLhyphen"/>gences and Purgatory, of Tranſubſtantiation, <hi>&amp;c.</hi>
+                  </p>
+                  <p n="5">5. It is they therefore, and not we, who by force and perſwaſion, and by all manner of Artifices, endeavour to draw People from the Unity and Obedience of the Holy Catholick Church, unto new Con<g ref="char:EOLhyphen"/>gregations, Inſtitutions and Rules of their own framing, oppoſite to, and deſtructive of the former. Like the Scribes and Phariſees of old, they compaſs Sea and Land to make one Proſelyte, and when he is made, they make him twofold more the Child of Hell than themſelves <hi>Matth.</hi> 23.15.</p>
+               </div>
+               <div n="13" type="question">
+                  <p>
+                     <label>Qu. 13.</label> 
+                     <hi>Whether Perſons ſo acting are better than Rebels and Uſurpers, or ſuch as <hi>Simon Magus</hi> and thoſe that deſerted the Apoſtles to follow him: and therefore to be avoided as Perſons ſeparated from the flock of Chriſt?</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> That they are no better than ſuch as he hath here named and deſcribed, we willingly grant; and upon that very account is it, that we now avoid Communion with the preſent Church of <hi>Rome.</hi>
+                  </p>
+                  <p>Thus have I given an Anſwer, and I hope a ſufficient one, to theſe Enquiries; and that ſhort, without entring upon diſcourſes of things not demanded, or at leaſt, not implyed in thoſe demands; and ſo ob<g ref="char:EOLhyphen"/>ſerved the Method propounded by the Enquirer.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="21" facs="tcp:65014:13"/>
+               <head>An Explanation of <hi>Roman Catholick</hi>'s Belief concerning theſe IV. Points, Their <hi>Church, Worſhip, Juſtification,</hi> and <hi>Civil Government,</hi> as it was preſented to ſome Perſons of Quality for their particular Satisfaction.</head>
+               <div type="introduction">
+                  <p>THeſe are four great Points, and if well and truly explained, the Explanation of them may be of very great uſe; but if otherwiſe, if he only guild the Pill, that the Patient may be more eaſily perſwa<g ref="char:EOLhyphen"/>ded to ſwallow it, it may prove of dangerous Conſequence; inſtead of informing, it may debauch the minds and underſtandings of men. Let us therefore look before we leap, let us conſider well whether this Explainer hath been honeſt and faithfull in his Explanation, before we receive all he ſaith for Goſpel. And for your aſſiſtance herein, I ſhall ſet down his own words, then animadvert thereupon, and when that is done, preſent you with both for your better ſatisfaction.</p>
+               </div>
+               <div n="1" type="point">
+                  <div type="explanation">
+                     <head>The EXPLAINER.</head>
+                     <p>
+                        <label>1.</label> 
+                        <hi>We believe the Holy Scriptures to be of Divine Inſpiration and Infalli<g ref="char:EOLhyphen"/>ble Authority, and whatſoever is therein contained we firmly aſſent unto as to the word of God, the Author of all truth.</hi>
+                     </p>
+                     <p>
+                        <hi>But ſince in the Holy Scriptures there are ſome things hard to be under<g ref="char:EOLhyphen"/>ſtood which the ignorant and unſtable wreſt to their own deſtruction, we therefore profeſs (for the ending of <hi>all</hi> Controverſies in our Religion, and ſetling of Peace in our Conſciences) to ſubmit our private Judgments to the Judgment of the Church in a free general Council.</hi>
+                     </p>
+                  </div>
+                  <div type="animadversion">
+                     <head>The ANIMADVERTER.</head>
+                     <p>
+                        <label>1.</label> The <hi>Explainer</hi> tells us that the <hi>Roman Catholicks</hi> do believe the Holy Scriptures to be of Divine Inſpiration and Infallible Autho<g ref="char:EOLhyphen"/>rity, <hi>&amp;c.</hi>
+                     </p>
+                     <p>A very fair and good profeſſion, wherein we do heartily joyn with them; And is it not a great pity there ſhould be a ſecret reſerve to ſpoil and overthrow it? They believe this, but is this all they believe? Do they not believe alſo that ſome things which before the Church's definition of them might have been innocently disbelieved, yet after they are once defined and determined by the Church, to be matters of Faith, and of equal Authority with any other things delivered by Chriſt and his Apoſtles? Do they not believe alſo that ſome Apocry<g ref="char:EOLhyphen"/>phal
+<pb n="22" facs="tcp:65014:14"/> Books are of Divine Inſpiration alſo, and of as infallible Autho<g ref="char:EOLhyphen"/>rity as the Writings of the Prophets and Apoſtles? Do they not be<g ref="char:EOLhyphen"/>lieve Traditions to be the unwritten Word of God, to be divinely in<g ref="char:EOLhyphen"/>ſpired, and of Equal infallible Authority with the written Word? If they do, then the <hi>Explainer</hi> hath not been ſo fair and candid, ſo juſt and faithfull as he ought to have been in his Explication; though he hath told us the truth, he hath not told us the whole truth. And that they do believe all this, though I might eaſily produce a Cloud of Witneſſes, and thoſe none of the leaſt admired of their own Au<g ref="char:EOLhyphen"/>thours; yet becauſe I deſign brevity, I ſhall content my ſelf at pre<g ref="char:EOLhyphen"/>ſent with the Evidence and Authority of one of their moſt magnified Councils, which they call both free and general, (though in truth it was neither) and that is the Council of <hi>Trent.</hi> Which Seſs. 4 8. <hi>Apr. de Canon. Script.</hi> takes the Books of <hi>Toby, Judith, Eccleſiaſticus, Wiſ<g ref="char:EOLhyphen"/>dom,</hi> and <hi>Maccabees,</hi> into the Canon of Scripture, (though they could not but know that they never were in the <hi>Jewiſh</hi> Canon, nor ever univerſally received by the Chriſtian Church) and anathematized all thoſe who do not upon this Declaration believe them to be Canonical. And the ſame Council, in the ſame Seſs. profeſſes to receive and reve<g ref="char:EOLhyphen"/>rence Traditions with no leſs pious Affection, than the Books of the Old and New Teſtament; and that not in matter of Rite and Hiſtory only, but of Faith and Manners alſo. Now what is this but to add to the Scriptures, and to accuſe them of inſufficiency and imperfection? And if ſo, then what doth this <hi>Explainer</hi> do, but deceive thoſe Perſons of Quality, to whom he preſents this as the Summ of their Belief?</p>
+                     <p>But the <hi>Explainer</hi> goes on, and ſaith, ſince in the Holy Scriptures there are ſome things hard to be underſtood, which the ignorant and unſtable wreſt to their own deſtruction. And here I ſhall by the way only remarque theſe two things.</p>
+                     <p n="1">1. The Apoſtle indeed ſaith there are ſome things hard (but not impoſſible) to be underſtood. For, if men will uſe the means, if they will apply themſelves with an humble and teachable temper of mind diligently to reade the Holy Scriptures, if they will ſeriouſly meditate on what they reade, and earneſtly and devoutly pray unto God for the aſſiſtance and direction of his Holy Spirit therein; the difficulty may be removed, and they may be enabled rightly to underſtand thoſe Scriptures, at leaſt ſo far as is neceſſary for them to know.</p>
+                     <p n="2">2. The Apoſtle tells us, to whom thoſe things are hard to be un<g ref="char:EOLhyphen"/>derſtood, <hi>viz.</hi> the ignorant and unſtable. So that the difficulty ſeems to be not in the things themſelves, but in the incapacities of men. For, if men will be ignorant ſtill, and not uſe the means to know bet<g ref="char:EOLhyphen"/>ter; or if they will content themſelves with ſome airy Notions, which
+<pb n="23" facs="tcp:65014:14"/> float and fluctuate in the brain, without ever endeavouring to bring them to a conſiſtency; not only ſome, but all things in Scripture, and even the cleareſt declarations of the Church may be hard to be under<g ref="char:EOLhyphen"/>ſtood by them, and ſo they will be as much at a loſs in the one as in the other. But how much this Text is miſunderſtood and miſapplied, a Reverend and Learned Divine of our Church, in a Treatiſe intitu<g ref="char:EOLhyphen"/>led, <hi>Search the Scriptures,</hi> hath plainly demonſtrated, to which I refer the Reader. But let us ſee what Inference he draws from hence, Therefore (ſaith he) we profeſs (for the ending of all Controverſies in our Religion, and ſettling of peace in our Conſciences) to ſubmit our private Judgments to the Judgment of the Church in a free General Council.</p>
+                     <p>In which Inference I cannot but remarque theſe things.</p>
+                     <p n="1">1. This Inference doth plainly imply a neceſſity of a viſible Judge of Controverſies, to whom, in all matters in difference, there ſhould be an Appeal, and whoſe deciſion ſhould be final. Now if this be re<g ref="char:EOLhyphen"/>ally ſo, Then, 1. It is mighty ſtrange that Chriſt and his Apoſtles, who pretended faithfully to deliver the whole mind and will of God to mankind, ſhould never once mention ſuch an Officer in the Church. Or, 2. If they ſhould omit to mention ſo neceſſary a thing in their writings, and only deliver it by word of mouth to their immediate Succeſſors, it is no leſs ſtrange that they ſhould either not know, or never make uſe of ſuch an Expedient for the ending of thoſe Contro<g ref="char:EOLhyphen"/>verſies that aroſe in their days. 3. We muſt conclude, that either the Church hath been mighty careleſs of her own peace, or that this Judge hath been very negligent in his buſineſs, to ſuffer ſo great and ſo fatal Controverſies to continue ſo long in the Church of God, when there was ſo ready a way to put an end to them.</p>
+                     <p n="2">2. Our <hi>Explainer</hi> in this Inference acquaints us with the great ends, for the ſake of which ſuch a Judge is neceſſary: <hi>viz.</hi> The ending of all controverſies in our Religion, and ſettling of peace in our Conſcien<g ref="char:EOLhyphen"/>ces. Theſe indeed are great things, and greatly to be deſired. But whether there be any ſuch Expedient, or if there be, whether it be ſufficient for theſe ends, are the things in queſtion. Now, that from the firſt foundation of the Chriſtian Church to this very day, theſe great ends have not been univerſally attained, is very plain and evi<g ref="char:EOLhyphen"/>dent; which to me is a very great Argument that either God never inſtituted any ſuch expedient, or if he did, that it was not ſufficient for theſe ends; which would be a mighty reflection upon the power and wiſedom of God.</p>
+                     <p>But becauſe ſome things in Scripture are hard to be underſtood, doth it therefore neceſſarily follow that there muſt be a viſible Judge of Con<g ref="char:EOLhyphen"/>troverſies,
+<pb n="24" facs="tcp:65014:15"/> to deliver the ſenſe of thoſe places to us, without whom we can never attain thereunto, and from whoſe deciſion there lies no ap<g ref="char:EOLhyphen"/>peal? I confeſs I cannot ſee the neceſſity of this conſequence: For, if it be granted, as it is on all hands, that the Scriptures which we now have are the Word of God, revealed by him, and of infallible Autho<g ref="char:EOLhyphen"/>rity, we muſt believe that either God would not, or could not explain his mind to the ſons of men in words as plain and intelligible as any ſuch Judge will or can do, or elſe there can be no ſuch neceſſity of any ſuch Judge upon that account. If there be no other way to attain the ſenſe of Scripture, but only the deciſion of ſuch a Judge, then what way or means is left us to underſtand the ſenſe of the declaration of that Judge? will there not want another Judge to determine that, and another to explain his, and ſo <hi>in infinitum?</hi>
+                     </p>
+                     <p>But let us for once ſuppoſe, though we do not grant it, that there ought to be a Judge of Controverſies in order to the attaining of theſe great ends, let us ſee how he ought to be qualified, and where we ſhall find him. This Judge muſt be a perſon or number of people, who muſt have a ſuperiority not only of order, but influence over all others, to whoſe deciſions and determinations all Chriſtian people ought to conform their judgments and practices. Nor muſt that influ<g ref="char:EOLhyphen"/>ence be precarious but authoritative, for nothing can warrant their Im<g ref="char:EOLhyphen"/>poſitions, but the Authority by which they are impoſed: Nor can any Authority ſuffice to oblige mankind to believe that, which is neither neceſſary as to its matter, nor evident as to its proof, antecedently to the definition of ſuch an Authority, but only ſuch an one as is infalli<g ref="char:EOLhyphen"/>ble. Now where ſhall we und ſuch an one, ſeeing there are ſo many pretenders to it? If we believe the <hi>Popes</hi> themſelves, the <hi>Jeſuits,</hi> and the reſt of the high <hi>Papalins,</hi> then his holineſs will carry away the Bell; but if we believe General Councils, and thoſe who defend their Supre<g ref="char:EOLhyphen"/>macy, then they will carry it from the <hi>Pope;</hi> and if we believe others of equal credit, then the Catholick Church diffuſive will carry it from both. So that if there ought to be ſuch a Judge, you ſee it is not a<g ref="char:EOLhyphen"/>greed upon among themſelves who he is. But,</p>
+                     <p n="3">3. Our <hi>Explainer</hi> determines this Controverſie, telling us, that it is the Judgment of the Church in a free General Council, that we ought to ſubmit to.</p>
+                     <p>And in this we heartily joyn with him, for we profeſs to have as great a deference for the Judgment of the Church in a free General Council, as they have or can have, and to have as great a regard to the ſenſe of the whole Chriſtian Church in all Ages ſince the Apoſtles as they, nay it may be greater than they will pretend to have; for, we are ſo far from declining it, that as to the matters in
+<pb n="25" facs="tcp:65014:15"/> difference between them and us, we appeal thereunto, and are wil<g ref="char:EOLhyphen"/>ling to be concluded thereby; being as well aſſured as the Records of thoſe Ages ſtill remaining can aſſure us, that it is on our ſide. But if by <hi>Church</hi> here, he mean the preſent Church of <hi>Rome,</hi> as it ſtands divided from other Communions, we deny that ſhe hath any more au<g ref="char:EOLhyphen"/>thority to impoſe a ſenſe of Scripture upon us, than we upon her, or any other particular Church upon either of us. Or if by <hi>Councils,</hi> he mean thoſe Weſtern Councils which have been held in theſe parts of the World in latter Ages, we cannot allow them either to be free or general, and conſequently cannot grant, nor have they any reaſon to claim any ſuch authority over us. But if by <hi>Councils,</hi> he mean thoſe primitive Councils, which indeed were the moſt free and general, and beſt deſerved to be ſtyled the Church Repreſentative; we have ſo great a veneration for their Opinion and Judgment, that we ſhall not decline to ſubmit the Umpirage of our Cauſe to them. But what is all this to the preſent Church of <hi>Rome,</hi> which at this day ſo arrogantly claims a right and authority to interpret Scripture, and impoſe her ſenſe upon us? For, unleſs ſhe can prove her ſelf infallible, all her pretended authority in this caſe will fall to the ground: If ſhe be indeed infalli<g ref="char:EOLhyphen"/>ble, ſhe would do well to let the world know whence ſhe had her In<g ref="char:EOLhyphen"/>fallibility. She muſt have it either immediately from God, or by de<g ref="char:EOLhyphen"/>legation from the Catholick Church diffuſive; If from God, let her produce her Charter; If from the Catholick Church diffuſive, then it depends upon her authority, and by the ſame authority ſhe may re<g ref="char:EOLhyphen"/>call it again when ſhe pleaſeth: So that upon this ground it will prove but a very <hi>Fallible Infallibility.</hi> We know ſhe challenges it by virtue of thoſe promiſes of the Spirit in the Scriptures, which promiſes they themſelves do confeſs to have been made only to the Catholick Church; and therefore, though an Infallibility, even in Judgment, were grant<g ref="char:EOLhyphen"/>ed to belong to the Catholick Church, yet that can ſignifie nothing to her, till ſhe hath proved her ſelf to be that Catholick Church, to which alone thoſe promiſes confeſſedly belong.</p>
+                     <p>Thus you ſee how candid and faithfull our <hi>Explainer</hi> hath been in this firſt Point; and now let us examine whether he acquit himſelf any better in the next.</p>
+                  </div>
+               </div>
+               <div n="2" type="point">
+                  <div type="explanation">
+                     <head>The EXPLAINER.</head>
+                     <p>
+                        <label>2.</label> 
+                        <hi>We humbly believe the Sacred Myſtery of the bleſſed Trinity, One E<g ref="char:EOLhyphen"/>ternal Almighty and Incomprehenſible God, whom onely we adore and wor<g ref="char:EOLhyphen"/>ſhip, as alone having Sovereign Dominion over all things, to whom alone, <hi>(1 Tim. 1.17.)</hi> we acknowledge as due from Men and Angels all Glory,
+<pb n="26" facs="tcp:65014:16"/> Service and Obedience; abhorring from our Hearts, as a moſt deteſta bld Sacrilege, to give our Creator's Honour to any Creatures whatſoever. And therefore we ſolemnly proteſt, That by the Prayers we addreſs to <hi>Angels</hi> ane <hi>Saints,</hi> we intend no other than humbly to ſolicit their aſſiſtance before the Throne of God, as we deſire the Prayers of one another here upon Earth, not that we hope any thing from them as Original Authours thereof, but from God the Fountain of all Goodneſs through Jeſus Chriſt our onely Mediator and Redeemer.</hi>
+                     </p>
+                     <p>
+                        <hi>Neither do we believe any divinity or vertue to be in Images, for which they ought to be worſhipped, as the <hi>Gentiles</hi> did their <hi>Idols;</hi> but we retain them with due and decent reſpect in our Churches, as Inſtruments, which we find by experience do often aſſiſt our memories and excite our affections.</hi>
+                     </p>
+                  </div>
+                  <div type="animadversion">
+                     <head>The ANIMADVERTER.</head>
+                     <p>Our <hi>Explainer</hi> here, in behalf of the <hi>Roman Catholicks,</hi> makes a very good confeſſion of Faith, telling us, That they humbly believe the ſacred myſtery of the bleſſed Trinity, One Eternal, Almighty and In<g ref="char:EOLhyphen"/>comprehenſible God, whom only they adore and worſhip, as alone having Sovereign Dominion over all things, to whom alone (1 <hi>Tim.</hi> 1.17.) they acknowledge as due, from Men and Angels, all glory, ſer<g ref="char:EOLhyphen"/>vice and obedience, abhorring from their hearts, as a moſt deteſtable Sacrilege, to give their Creator's honour to any Creatures whatſoever.</p>
+                     <p>This is true Primitive Chriſtianity, good Catholick Divinity without any mixture of Popery, and is it not great pity that any thing ſhould be added thereto, or mixed therewith, to ſpoil ſo good a Confeſſion? Thus far we can readily and heartily joyn with them; but when they ſuperadd Articles of their own, ſuch as were never delivered by Chriſt or his Apoſtles, nor owned by the primitive Catholick Church, and ſet them in equal place with thoſe of Divine Revelation, and primitive practice; then we cannot keep pace with them, but are forced to ſtay behind, and ſit down contented with primitive Chriſtianity; ſo that in truth it is not we that leave them, but they that leave us, and conſe<g ref="char:EOLhyphen"/>quently are guilty of the Separation.</p>
+                     <p>And this is the caſe here between us and our <hi>Explainer.</hi> For after all this glorious profeſſion of adoring and worſhipping the One Eternal Almighty and Incomprehenſible God and him only, and abhorring the giving of his glory to any Creatures as a moſt deteſtable Sacrilege; he introduceth Prayers to Saints and Angels, and the Worſhip of or beofre images, as things equally neceſſary to be performed by Chriſti<g ref="char:EOLhyphen"/>ans. Now, if Prayers and Adoration be acts of religious worſhip, and the Objects to which they are offered be Creatures, then it muſt
+<pb n="27" facs="tcp:65014:16"/> needs follow, that either all Religious Worſhip is not due to God a<g ref="char:EOLhyphen"/>lone, or elſe that they do give part of his honour to ſomething that is not God. It is true indeed that he endeavours to palliate theſe prac<g ref="char:EOLhyphen"/>tices with ſome pretended qualifications, thereby to ſhift off the weight of this charge which lieth ſo heavy upon them; but they are ſo thin and threedbare, ſo empty and inſignificant, and have been ſo miſera<g ref="char:EOLhyphen"/>bly baffled of late, eſpecially in the Anſwer to <hi>A Papiſt Miſrepreſented and Repreſented,</hi> as alſo in two other little Treatiſes, the one intituled <hi>A Diſcourſe concerning Invocation of Saints,</hi> printed in the year 1684, and the other intituled, <hi>A Diſcourſe concerning the Object of Religious Worſhip,</hi> &amp;c. printed 1685, that I cannot but admire at our <hi>Explainer</hi>'s confidence to produce them at this time. Theſe Treatiſes are, or up<g ref="char:EOLhyphen"/>on eaſie terms may be, in every man's hands; and there is therein ſo much ſaid upon this Subject, and ſo much to the purpoſe, as may very well ſpare me the labour of enlarging thereupon; to them therefore I ſhall refer the Reader for further ſatisfaction. But by theſe ſhort Re<g ref="char:EOLhyphen"/>marques, which I have made upon this part of our <hi>Explainer</hi>'s Con<g ref="char:EOLhyphen"/>feſſion, it is plain that he hath been no more candid and ingenuous in this than in the former. Let us therefore try him in the next.</p>
+                  </div>
+               </div>
+               <div n="3" type="point">
+                  <div type="explanation">
+                     <head>The EXPLAINER.</head>
+                     <p>
+                        <label>3.</label> 
+                        <hi>We firmly believe, that no force of Nature, or dignity of our beſt Works can merit our <hi>Juſtification,</hi> but we are Juſtified freely by Grace, through the redemption that is in <hi>Jeſus Chriſt, (<hi>Rom.</hi> 3.24.)</hi> And though we ſhould by the grace of God perſevere unto the end in a godly life, and holy obedience to the Commandments; yet our hopes of eternal glory, are ſtill built upon the mercy of God, and the merits of <hi>Chriſt Jeſus.</hi>
+                        </hi>
+                     </p>
+                     <p>
+                        <hi>All other Merits, according to our ſenſe of the word, ſignifie no more than Actions done by the aſſiſtance of God's Grace, to which it hath pleaſed his goodneſs to promiſe a Reward. A Doctrine ſo far from being unſuitable to the ſenſe of the Holy Scriptures, that it is their principal deſign to invite and provoke us to a diligent obſervance of the Commandments, by promiſing Heaven as a reward of our obedience. <hi>1 Tim. 4.8. Rom. 2.6. Rom. 8.13. Hebr. 6.10.</hi> Nothing being ſo frequently repeated in the word of God, as his gracious promiſes to recompence with everlaſting glory the Faith and Obe<g ref="char:EOLhyphen"/>dience of his Servants. Nor is the bounty of God barely according to our Works, but high and plentifull even beyond our Capacities, giving full mea<g ref="char:EOLhyphen"/>ſure, heaped up, and preſſed down, and running over, into the boſomes of all that love him. <hi>Luke 6.38.</hi>
+                        </hi>
+                     </p>
+                     <p>
+                        <hi>Thus we believe the merit or rewardableneſs of holy living, (both which ſignifie the ſame thing with us) ariſe not from the ſelf value even of our beſt
+<pb n="28" facs="tcp:65014:17"/> actions, as they are curs, but from the grace and bounty of God. And for our ſelves we ſincerely profeſs, when we have done all thoſe things which are commanded us, we are unprofitable Servants <hi>(Luke 17.10.)</hi> having done nothing but that which was our Duty; ſo that our boaſting is not in our ſelves, but all our Glory is in Chriſt.</hi>
+                     </p>
+                  </div>
+                  <div type="animadversion">
+                     <head>The ANIMADVERTER.</head>
+                     <p>If this be really the Faith of <hi>Roman Catholicks,</hi> we ſhall not ſtick to acknowledge it is ours too, and then we ſhall have no occaſion to dif<g ref="char:EOLhyphen"/>fer in this point. But I am afraid our ſo near an Agreement is too good news to be true; Our <hi>Explainer,</hi> I doubt, hath either miſtaken or to gain a Proſelyte, or for ſome other end which might be ſerviceable to Holy Church, hath very much miſrepreſented the Doctrine of his own Church in this point. For ſure I am, the Council of <hi>Trent,</hi> which they ſo much magnifie, and on whoſe deciſions they ſo much depend, hath a quite different Notion of Juſtification and Merit. That Council after ſome Months debate upon the Point of Juſtification, at laſt came to a deciſion, and declared, That the only formal Cauſe of our Ju<g ref="char:EOLhyphen"/>ſtification is God's Juſtice, not by which he himſelf is juſt, but by which he makes us juſt; wherewith being endowed by him, we are renewed in the Spirit of our Minds, and are not only reputed, but are made truly juſt; receiving every man his own meaſure of juſtice, which the Holy Ghoſt divides to him, according to each mans pre<g ref="char:EOLhyphen"/>diſpoſition of himſelf, and co-operation And withall denounceth a flat Anathema to all thoſe who ſhall dare to ſay, that we are for<g ref="char:EOLhyphen"/>mally juſtified by Chriſt's righteouſneſs, or by the ſole imputation of that righteouſneſs, or by the ſole remiſſion of our ſins, and not by our inherent grace, diffuſed into our hearts by the Holy Ghoſt. <hi>Seſſ.</hi> 6. <hi>Can.</hi> 10, 11. And the ſame Council, ſpeaking of the Merit of good Works, ſaith, If any man ſhall ſay, that the good Works of a juſtified Perſon do not truly merit the increaſe of Grace and eternal Life, let him be Anathema. <hi>Seſſ.</hi> 6 <hi>Can.</hi> 32.</p>
+                     <p>Now one would think the choice were very eaſie, which of theſe to believe, whether the Council of <hi>Trent</hi> or this <hi>Explainer.</hi> The ac<g ref="char:EOLhyphen"/>counts they give are too different to be both believed; and can there be any queſtion which of them is moſt authoritative? Certainly our <hi>Expla<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ner</hi> muſt be a very bold Perſon, who in defiance of ſuch a cele<g ref="char:EOLhyphen"/>brated Council, durſt deliver what he hath done for the belief of <hi>Ro<g ref="char:EOLhyphen"/>man Catholicks</hi> in this point; and he muſt look upon his Perſons of Quality, to whom he preſents it, as a parcel of unthinking and incon<g ref="char:EOLhyphen"/>ſiderate Animals, who would ſwallow any thing without Examination.
+<pb n="29" facs="tcp:65014:17"/> Either he was in earneſt, or he had a mind to put a cheat upon them; if the latter, he plainly diſcovers how good a Chriſtian, and how true a Catholick he is. If the former, ſurely he did not well conſider, how fatal the Conſequences of that Doctrine would be to the Church of <hi>Rome.</hi> For, 1. If this be really the Faith of <hi>Roman Catholicks,</hi> then, What becomes of that gainful Trade of Indulgences, which is wholly founded upon the Treaſure of the Church, wherein are heaped up piles of ſatisfactions of Saints, of which the Pope only keeps the Keys, and hath power to diſpenſe them where he liſts. There was a time indeed, when Indulgences were look'd upon to be nothing elſe but a Mitigation or Relaxation, upon juſt Cauſes, of Canonical Penances, which are or may be enjoyned by the Paſtors of the Church on penitent Sinners, according to their ſeveral Degrees of Demerits. But this is a Doctrine out of date with the preſent Church of <hi>Rome,</hi> inſomuch that <hi>Greg. de Valentia</hi> ſaith, That this Opinion differs not from that of the Hereticks, and makes Indulgences to be uſeleſs and dangerous things, <hi>de Indulg. c.</hi> 2. And their great Cham<g ref="char:EOLhyphen"/>pion <hi>Bellarmine,</hi> among ſeveral other Arguments againſt this Doctrine, brings this for one, That if this were ſo, there would be no need of the Treaſure of the Church, which he takes a great deal of pains to prove to be the Foundation of Indulgences. But, 2. What will be<g ref="char:EOLhyphen"/>come of the profitable Doctrine of Purgatory, which is built upon Indulgences, and they upon the Treaſure of the Church, wherein the Merits of Saints are kept, to be diſpenſed by the Pope for the de<g ref="char:EOLhyphen"/>livery of Souls out of Purgatory? But, 3. What will become of the Pope's Coffers, which being once emptied, and this Spring dried up, which ſhould have ſupplied them, can have no proſpect of any o<g ref="char:EOLhyphen"/>ther ſo effectual way to repleniſh them again. Had our <hi>Explainer</hi> well conſidered theſe ill Conſequences of his Explanation, he would certainly have thought of it more than once, before he had expoſed it. I cannot imagine what ſhould perſwade him to ſuch an Explanation, unleſs he had obtained a diſpenſation to guild his Bait, the more eaſily to catch what he angled for. And if this be it, is it not a great Ar<g ref="char:EOLhyphen"/>gument of the Candour and Ingenuity of our <hi>Explainer,</hi> and a mighty motive to his Perſons of Quality to ſwallow all that ſhall be propoun<g ref="char:EOLhyphen"/>ded by him?</p>
+                     <p>And now we are come to the laſt point which he undertakes to ex<g ref="char:EOLhyphen"/>plain, and ſhall examine whether he be more ingenuous in that than he hath been in the other.</p>
+                  </div>
+               </div>
+               <div n="4" type="point">
+                  <pb n="30" facs="tcp:65014:18"/>
+                  <div type="explanation">
+                     <head>The EXPLAINER.</head>
+                     <p>
+                        <label>4.</label> 
+                        <hi>We firmly believe and highly reverence the Moral Law, being ſo ſo<g ref="char:EOLhyphen"/>lemnly delivered to Moſes upon the Mount. <hi>Exodus 20. Matth. 19. Eccleſ. 12 13.</hi> ſo expreſly confirmed by our Saviour in the Goſpel, and containing in it ſelf ſo perfect an Abridgment of our whole Duty both to God and Man.</hi>
+                     </p>
+                     <p>
+                        <hi>Which Moral Law we believe obliges all men to proceed with faithful<g ref="char:EOLhyphen"/>neſs and ſincerity in their mutual Contracts one towards another, and there<g ref="char:EOLhyphen"/>fore our conſtant profeſſion is, That we are moſt ſtrictly and abſolutely bound to the exact and intire performance of our promiſes made to any Perſons of what Religion ſoever, much more to the Magiſtrates and Civil Powers under whoſe Protection we live, whom we are taught by the Word of God to obey not only for fear but Conſcience ſake, and to whom we will moſt faith<g ref="char:EOLhyphen"/>fully obſerve our Promiſes of Duty and Obedience, notwithſtanding any Diſpenſation, Abſolution, or other proceedings of any foreign Power or Authority whatſoever.</hi>
+                     </p>
+                     <p>
+                        <hi>Wherefore we utterly deny and renounce that falſe and ſcandalous Poſition, <hi>That Faith is not to be kept with Hereticks,</hi> as moſt uncharitably impu<g ref="char:EOLhyphen"/>ted to our Practices, and moſt unjuſtly pinned upon our Religion.</hi>
+                     </p>
+                     <p>
+                        <hi>Theſe we ſincerely and ſolemnly profeſs, as in the ſight of God, the ſearcher of all hearts, taking the words plainly and ſimply in their uſual and familiar ſenſe, without any Equivocation or Mental Reſervation whatſoever.</hi>
+                     </p>
+                  </div>
+                  <div type="animadversion">
+                     <head>The ANIMADVERTER.</head>
+                     <p>Our <hi>Explainer</hi> would have the World believe, that thoſe of his Communion do highly reverence, and have a mighty regard for the Moral Law. We do the ſame; but we know and believe the Second Commandment to be part of that Law, and therefore dare not be guilty of Image-Worſhip, which perhaps the <hi>Explainer</hi> did not think of.</p>
+                     <p>He further tells us, that they believe, that this Law doth contain in it ſelf a perfect Abridgment of our whole Duty both to God and Man. We believe the ſame, and we do further believe, that whoſo<g ref="char:EOLhyphen"/>ever ſhall keep the whole Law, and yet offend in one point, he is guilty of all. <hi>James</hi> 2.10. And therefore we dare not worſhip Images, nor give divine Honour to any Creatures, nor diſobey Magiſtrates, nor deal falſly with our Neighbours under any pretence whatſoever, nor do any thing that is there forbidden, nor leave undone any thing that is there commanded. Whether the <hi>Explainer</hi> thought of all this, I know not; but he cannot but know that the Practices of thoſe of his Communion are not correſpondent thereunto.</p>
+                     <pb n="31" facs="tcp:65014:18"/>
+                     <p>But the two great things that he would have the World believe of them upon the Credit of his Explanation, are theſe, <hi>viz.</hi> Their ſin<g ref="char:EOLhyphen"/>cerity and Loyalty, which he would fain inſinuate to be the natural Offspring of their Principles, and the conſtant Rule of their Practices. Theſe therefore are the things which we are now to take under Con<g ref="char:EOLhyphen"/>ſideration, and that we may be the more clear therein, I ſhall conſi<g ref="char:EOLhyphen"/>der them ſeverally.</p>
+                     <p n="1">1. And firſt as to their pretence of ſincerity. The <hi>Explainer</hi> tells us, They believe, That the Moral Law obliges all men to proceed with faithfulneſs and ſincerity in their mutual Contracts one towards ano<g ref="char:EOLhyphen"/>ther, and therefore their conſtant profeſſion is, that they are moſt ſtrictly and abſolutely bound to the exact and intire performance of their promiſes made to any Perſon of what Religion ſoever. And as an Argument to evince the truth hereof, he farther tells us, that they utterly deny and renounce, that falſe and ſcandalous poſition, <hi>That Faith is not to be kept with Hereticks,</hi> as moſt uncharitably imputed to their Practices, and moſt unjuſtly pinned upon their Religion.</p>
+                     <p>If this poſition, <hi>That Faith is not <gap reason="illegible" resp="#OXF" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> be kept with Hereticks,</hi> be untruly charged upon them, then we muſt acknowledge that it were uncha<g ref="char:EOLhyphen"/>ritable to impute it to their practices, and unjuſt to pin it upon their Religion; but if it appear to be the Doctrine and Practice of their Church, then it will undoubtedly overthrow all their pretentions to <hi>Faithfulneſs</hi> and <hi>Sincerity.</hi>
+                     </p>
+                     <p>And that this is really the Doctrine and Practice of their Church, we have the ſuffrage of a whole Council, by them ſtyled General, <hi>viz.</hi> the Council of <hi>Conſtance,</hi> by whom this Doctrine was own'd, affir<g ref="char:EOLhyphen"/>med and practiſed. And <hi>John Huſs, Hierom</hi> of <hi>Prague,</hi> and <hi>Savanarola,</hi> though they had the publick Faith for their ſafe conduct and return, yet in defiance thereof, by virtue of this Doctrine, they were pro<g ref="char:EOLhyphen"/>ceeded againſt, and ſeverely ſuffered. The ſame thing was alſo fiercely diſputed in the Diet at <hi>Worms,</hi> in the caſe of <hi>Luther.</hi> And had not <hi>Caeſar</hi> been a better Chriſtian than the Eccleſiaſticks, and more a Gen<g ref="char:EOLhyphen"/>tleman than his Holyneſs, <hi>Luther,</hi> notwithſtanding his Safe Conduct, had not returned ſafely from thence. But leſt any ſecular Princes hereafter, ſhould, either through Scruple of Conſcience, or in point of honour, think themſelves obliged to keep their Word, and ſo hin<g ref="char:EOLhyphen"/>der them of their prey when it is in their hands; the Doctrine is now improved, and we are told, There are two diſtinct Tribunals, and the Eccleſiaſtical is the Superiour: and therefore, if a ſecular Prince gives his Subjects a Safe Conduct, he cannot extend it to the ſuperior Tri<g ref="char:EOLhyphen"/>bunal, nor by any ſecurity given hinder the Biſhop or the Pope to exerciſe their Juriſdiction. <hi>Becanus in Theol. Scholaſt.</hi>
+                     </p>
+                     <pb n="32" facs="tcp:65014:19"/>
+                     <p>This Doctrine is alſo confidently taught, and the practice thereof encouraged by their moſt eminent Doctors and Caſuiſts. Some in<g ref="char:EOLhyphen"/>ſtances whereof (for it would fill a Volume to give you all) I ſhall now preſent you with for your better ſatisfaction in this point.</p>
+                     <p>Cardinal <hi>Tolet. de inſtruct. Sacerd. l.</hi> 1. <hi>c.</hi> 13. expreſly avows, That if a man be bound by the Bond of Fidelity or Oath, he ſhall be freed from that Bond, if he, to whom he is bound, fall into Excommunica<g ref="char:EOLhyphen"/>tion; and during that, Debtors are abſolved from the Obligation of paying to the Creditor that debt which is contracted by words. And the ſame <hi>Tolet. l.</hi> 4. <hi>c.</hi> 21, 22. poſitively declares, That Equivocation upon Oath before a Magiſtrate is lawfull.</p>
+                     <p>
+                        <hi>Thomas à Jeſu</hi> the Carmelite, <hi>de coverſ Gentium, dub.</hi> 4. <hi>p.</hi> 218. puts this queſtion, Whether one that denyeth it, when he is asked by an Heretick whether he be a Prieſt, or a Religious man, or whether he heard divine Service, doth ſin againſt the Confeſſion of Faith? To which he anſwers, No. For that is no denying himſelf to be a Chri<g ref="char:EOLhyphen"/>ſtian or Catholick. For it is lawfull to diſſemble or hide the Perſon of a Clergyman, or a Religious man, without a Lye in words, leſt a man be betrayed and in danger of his life; and for the ſame cauſe he may lay by his Habit, omit Prayers, and becauſe humane Laws for the moſt part bind not the Subjects Conſcience, when there is great hazard of life, as in this caſe <hi>Azorius</hi> hath well taught.</p>
+                     <p>And Cardinal <hi>Tolet. de Inſtruct. Sacerd. l.</hi> 8. <hi>c.</hi> 39. <hi>n.</hi> 4. thus deter<g ref="char:EOLhyphen"/>mines a Caſe propounded. If (ſaith he) the times be hard, or the Judge unequal; a man that cannot ſell his Wine at a due price, may lawfully make his meaſures leſs than is appointed; or mingle water with his Wine and ſell it for pure, ſo he do not lye; and yet if he doth, it is no mortal ſin, nor obligeth him to reſtitution. A man may ſwear to poſitive untruths by the Law of directing the Intention, ſaith <hi>F. Southwel, Tract. de Equivocat. c.</hi> 8. <hi>p.</hi> 42, 43.</p>
+                     <p>If a man hath taken an Oath of a thing honeſt and lawfull, and in his power; yet if it hinders him from doing a greater good, the Pope can diſpenſe with his Oath, and take off the obligation, ſaith <hi>Canus</hi> Biſhop of the <hi>Canar. Relect. de poenitent.</hi>
+                     </p>
+                     <p>If a man hath promiſed to a Woman to marry her, and is betrothed to her, and hath ſworn it; yet if he will, before the Conſummation, enter into a Monaſtery, his Oath ſhall not bind him, his promiſe is null; but his ſecond promiſe that ſhall ſtand. He that denies this is accurſed by the Council of <hi>Trent. Seſs.</hi> 8. <hi>Can.</hi> 6.</p>
+                     <p>I am weary with tranſcribing ſuch nauſeous ſtuff, and therefore o<g ref="char:EOLhyphen"/>mitting many more, I ſhall only add one inſtance more. Pope <hi>Pius</hi> V. upon occaſion of ſome Miſſionaries to be ſent into <hi>England,</hi> declared,
+<pb n="33" facs="tcp:65014:19"/> That if they were ſummon'd before the Judges, they might <hi>Sophiſticè jurare &amp; Sophiſticè reſpondere;</hi> and that they were not bound to anſwer according to the intention of the Judges, but according to ſome true ſenſe of their own; <hi>i. e.</hi> which was made true by the help of a Mental Reſervation. <hi>Apud. G. Abbot. de Mendacio, &amp;c. in praef. p.</hi> 6, <hi>&amp;c.</hi>
+                     </p>
+                     <p>By theſe inſtances you may perceive that the Doctors and Caſuiſts of the <hi>Romiſh</hi> Church are not of our <hi>Explainer</hi>'s opinion; which to me is a very great Argument, that he hath not dealt ſo fairly and candidly as he ought to have done in his Explanation. It may be he will tell us that theſe were but private Perſons, and that the Do<g ref="char:EOLhyphen"/>ctrine of their Church is not to be meaſured by their private Opi<g ref="char:EOLhyphen"/>nions, which if he do, I ſhall readily own, That the private Opinions of particular men ought not, in reaſon, to be charged upon that Society to which they belong; And if ſo, then our <hi>Explainer</hi> ought not to take it amiſs, if we do not receive his Explanation as the Doc<g ref="char:EOLhyphen"/>trine of that Church of which he pretends to be a Member. But if the united force of the Council of <hi>Conſtance,</hi> and that of <hi>Trent</hi> (both which they themſelves reckon to be General) with the concur<g ref="char:EOLhyphen"/>rent opinions of ſo many eminent Doctours and Caſuiſts of their own Church too (none of which, that we know, have ever recei<g ref="char:EOLhyphen"/>ved the leaſt check for publiſhing their opinions) if theſe, I ſay, will outweigh any Authority which this Explanation can pretend to, then what becomes of all this goodly Profeſſion which he here makes? where ſhall we find all that faithfulneſs and ſincerity which he here boaſts of? if making and breaking of promiſes, if ſwearing and forſwearing, if the violation of all the moſt ſacred Bonds, where<g ref="char:EOLhyphen"/>with mankind can be obliged, may paſs for faithfulneſs and ſin<g ref="char:EOLhyphen"/>cerity, we may expect great ſtore of it amongſt them. And indeed whilſt there is a power given to the Pope to diſpenſe with Oaths and Promiſes, and a liberty given to the People to make good all they ſay or ſwear by the Law of directing the Intentions, by the Power of Equivocation, and the force of Mental Reſervati<g ref="char:EOLhyphen"/>on, I cannot ſee any reaſon why we ſhould expect better. But if this be the Faithfulneſs and Sincerity they boaſt of, we bleſs God that we know none ſuch amongſt us; and we hope this will never prove an Argument ſufficient to perſwade any of ours to deſert the Communion they are of, for a Communion that allows ſuch things as theſe. And thus have I given you an ac<g ref="char:EOLhyphen"/>count of their Faithfulneſs and Sincerity.</p>
+                     <p n="2">2. The other thing which he boaſts of is, <hi>their Loyalty.</hi> For he tells us, They are moſt ſtrictly and abſolutely bound to an exact and entire
+<pb n="34" facs="tcp:65014:20"/> performance of their promiſes made to the Magiſtrates and Civil Pow<g ref="char:EOLhyphen"/>ers under whoſe protection they live, whom they are taught by the word of God to obey, not only for fear but Conſcience ſake, and to whom they will moſt faithfully obſerve their promiſes and duty of O<g ref="char:EOLhyphen"/>bedience, notwithſtanding any diſpenſation, abſolution, or other pro<g ref="char:EOLhyphen"/>ceedings of any foreign Power or Authority whatſoever.</p>
+                     <p>We do indeed firmly believe, That both they, and we, and all Sub<g ref="char:EOLhyphen"/>jects are moſt ſtrictly and abſolutely bound to an exact and entire per<g ref="char:EOLhyphen"/>formance of all thoſe promiſes which we make to Magiſtrates and Ci<g ref="char:EOLhyphen"/>vil Powers, and that there is no power on earth either Foreign or Domeſtick that can diſpence with our Oaths and Promiſes, or abſolve us from our Duty and Allegiance. But whether this be the Belief of <hi>Roman Catholick,</hi> we are not ſo well aſſured: If we will take it upon the bare word of our <hi>Explainer,</hi> it is; but having found him faulty and diſingenuous in the former points, we may ſuſpect him in this, and therefore muſt not ſwallow all that he ſaith for Goſpel, till we have examined it. We very well know that the Doctrines of learned and allowed Caſuiſts, and Practices of thoſe who have greateſt authority in the <hi>Roman Church</hi> have been quite contrary to this Explanation, and we never found any diſpoſition in them to ſo great a condeſcenſi<g ref="char:EOLhyphen"/>on, nor ever heard that there was any ſuch Reformation made in their principles and practices by any publick Authority among them. If our <hi>Explainer</hi> had produced any authentick Records of any ſuch thing, we ſhould with a great deal of readineſs and rejoycing have embraced them; but we cannot admit of his bare word as a ſuf<g ref="char:EOLhyphen"/>ficient evidence in this caſe.</p>
+                     <p>Our bleſſed Saviour aſſureth us, that no man can ſerve two Maſters, <hi>Matth.</hi> 6.24. Whilſt therefore thoſe of the <hi>Roman</hi> Communion do own the Pope as Supreme Head of the Church, and allow him a ſove<g ref="char:EOLhyphen"/>reign and uncontrollable power over them both in Temporals and Spirituals, by virtue of which he can diſpenſe with their Oaths and Promiſes when he pleaſeth; we cannot ſee how they can be ſo exact in the performance of their promiſes made to Civil Powers. For, it is not only poſſble but often happens, that the Civil Power, under whoſe protection they live, doth not own the Papacy, nor hath any regard for the pretended power and dominion thereof; and in ſuch a caſe it is very likely, their commands will interfere: which if they do (as we know they very often do how a <hi>Roman</hi> Catholick will carry himſelf even, and ſo exactly divide his obedience to theſe different So<g ref="char:EOLhyphen"/>vereigns, and their different commands, as to pleaſe both, I cannot as yet imagine. How our <hi>Explainer</hi> will reſolve this caſe, I know not; but I very well know, that the Doctors and Caſuiſts of the <hi>Roman
+<pb n="35" facs="tcp:65014:20"/> Church,</hi> and their Popes too, will roundly tell us, That the Power of the Pope is ſuperiour to that of the Prince, and therefore he is to be obeyed in the firſt place. And if ſo, then what becomes of all that Loyalty and Fidelity to Civil Powers, which our <hi>Explainer</hi> ſo much boaſts of?</p>
+                     <p>To ſhew you therefore, that notwithſtanding this ſo ſpecious Expla<g ref="char:EOLhyphen"/>nation of their Faith in this point, we have ſufficient reaſon to ſuſpect the candour and ingenuity of the <hi>Explainer,</hi> and the truth of what he ſays; I ſhall only confront him with the declared Doctrines, and a<g ref="char:EOLhyphen"/>vowed Practices of their own Church in this caſe.</p>
+                     <p>All the Juriſdiction of all the Kings and Princes of the World depen<g ref="char:EOLhyphen"/>deth on the Pope, ſaith <hi>P. Clem.</hi> 5. <hi>in Concil. Vienn.</hi>
+                     </p>
+                     <p>And Pope <hi>Pius</hi> 5. in his Bull againſt Queen <hi>Elizabeth,</hi> doth ſtrictly will and command all her Subjects to take Arms againſt that Heretical and Excommunicate Queen.</p>
+                     <p>The Depoſing and King killing Doctrine, diſpenſing with Oaths of Allegiance, <hi>&amp;c.</hi> were made Articles of their Faith, by the fourth Gene<g ref="char:EOLhyphen"/>ral Council at <hi>Lateran,</hi> under Pope <hi>Innocent</hi> 3.</p>
+                     <p>And it is pleaſant to obſerve how nicely ſcrupulous ſome of their great men are in reſolving this caſe, gravely telling us, That private men may not kill a King till he be depoſed; but if once he be excom<g ref="char:EOLhyphen"/>municate, then he is no King; (and then they may kill him without ſcruple) Or if he be an Heretick (which the Pope can make him when he pleaſeth) then they may kill the Heretick, but not the King. Thus <hi>Suarez adverſ. Sect. Anglic. l.</hi> 6. <hi>c.</hi> 4. <hi>Sect.</hi> 14. And <hi>c.</hi> 6. <hi>Sect.</hi> 22.24. Thus alſo <hi>Azorius</hi> the <hi>Jeſuite. Inſtit. Moral. part.</hi> 1. <hi>l.</hi> 8. <hi>c.</hi> 13 And thus <hi>Mariana, de Reg. Inſtit. l.</hi> 1. <hi>c.</hi> 7, &amp;c.</p>
+                     <p>The Rebellion of a Clergyman againſt his Prince is not Treaſon, becauſe he is not his Prince's Subject, ſaith <hi>Emman. Sá. Aphor. verb. Clericus.</hi>
+                     </p>
+                     <p>When a Prince is Excommunicate, before the Denunciation, the Subjects are not abſolved from their Oath of Allegiance, (as <hi>Cajetan</hi> ſays well) yet when it is denounced, they are not only abſolved from their Obedience, but are bound not to obey, unleſs the fear of Death, or loſs of Goods excuſe them, which was the caſe of the <hi>Engliſh</hi> Ca<g ref="char:EOLhyphen"/>tholicks in the time of <hi>Henry</hi> the Eighth, ſaith <hi>Card. Tolet. conc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r. Eccleſ. in Angl. fol.</hi> 336.</p>
+                     <p>It is the Sentence of all Catholicks, that Subjects are bound to ex<g ref="char:EOLhyphen"/>pell Heretical Princes, if they have ſtrength enough, and that to this they are tyed by the Commandment of God, the moſt ſtrict tye of Conſcience, and the extreme danger of their Souls, ſaith <hi>F. Creſwel, in Philopat. Sect.</hi> 2. <hi>n.</hi> 160, 161.</p>
+                     <pb n="36" facs="tcp:65014:21"/>
+                     <p>Nay even before the Sentence is declared, though the Subjects are not bound to it, yet lawfully they may deny Obedience to an Here<g ref="char:EOLhyphen"/>tical Prince, ſaith <hi>Greg. de Valentia, Tom.</hi> 3 <hi>diſp.</hi> 1. <hi>q.</hi> 12. <hi>punct.</hi> 2.</p>
+                     <p>An Excommunicate King may with impunity be depoſed or killed by any one, ſaith <hi>Suarez, Deſenſ. Fid. l.</hi> 6. <hi>c.</hi> 6. <hi>Sect.</hi> 24.</p>
+                     <p>The Pope can make, that he who is a King, ſhall be no King, and then you are diſobliged, ſaith <hi>Bellarm. contr. Barcl. c.</hi> 7.</p>
+                     <p>The Secular power is ſubject to the Spiritual. The Pope hath a ſovereign power over Chriſtian Kings and Princes, to correct, depoſe, and appoint others in their places. If a King be guilty of Hereſie, Schiſm, or any intolerable crime againſt his People; if he be guilty of negligence or ſloth in his government; if he fail in the performance of his Oaths and Promiſes, or oppreſs the Church; the Pope may diveſt him of his Royal Dignity; ſaith <hi>Abrah. Brovius, de Pontif. Roman. c.</hi> 46. <hi>p.</hi> 621. <hi>Col.</hi> 2. Which Book was printed at <hi>Cologne, Anno</hi> 1619. and ſolemnly recommended and approved by his Superiours, and Li<g ref="char:EOLhyphen"/>cenſed by the Apoſtolick Inquiſitor.</p>
+                     <p>I might be infinite in inſtances of this kind, but having almoſt wea<g ref="char:EOLhyphen"/>ried my ſelf with raking in ſuch a Dunghill, I am not willing to tire my Reader too. I ſhall therefore only produce one unexceptionable Witneſs more, and that ſhall be their great and renowned Champion <hi>Bellarmine,</hi> out of whoſe 5th. Book <hi>De Romano Pontifice,</hi> I ſhall take the pains to tranſcribe ſome paſſages; and having ſubjoyned thereunto ſome inſtances of their practices ſuitable to their declared principles, I ſhall then leave it to the judgment of any indifferent perſon, what kind of Loyalty and Fidelity Sovereign Princes (eſpecially thoſe who are of a different perſuaſion) may hope to find from their <hi>Roman Ca<g ref="char:EOLhyphen"/>tholick</hi> Subjects.</p>
+                     <p>
+                        <hi>Bellarmine</hi> in the firſt Chapter of his fifth Book <hi>De Romano Pontifice,</hi> having rejected two extreme Opinions concerning the Pope's power; the one taught and maintained by <hi>Auguſtinus Triumphus, Alvarus Pelagius, Hoſtienſis,</hi> and others of his own Communion, <hi>viz.</hi> That the Pope by a Divine Right hath a moſt plenary power over all the World as well in Political as Eccleſiaſtical affairs. And the other delivered by <hi>Calvin, Peter Martyr, Brentius</hi> and others whom he calls Hereticks, <hi>viz.</hi> That the Pope, as Pope, hath not by Divine Right any Temporal power at all, nor upon any account can command Se<g ref="char:EOLhyphen"/>cular Princes, much leſs deprive them of their Kingdoms and Princi<g ref="char:EOLhyphen"/>palities; and that Spiritual perſons ought not to exerciſe Temporal Dominion. He at laſt lays down a middle Opinion between both, which he tells us is the common Opinion of Catholick Divines, <hi>viz. That the Pope, as Pope, hath not directly and immediately any Temporal
+<pb n="37" facs="tcp:65014:21"/> power, but only a ſpiritual: yet by virtue of that Spiritual power he hath indirectly at leaſt a ſupreme power in Temporals.</hi>
+                     </p>
+                     <p>This Opinion he undertakes to explain in his Sixth Chapter, where he tells us, That in Order to a Spiritual good, he hath a Supreme Power of diſpoſing all the Temporal things of all Chriſtian People.</p>
+                     <p>Which Power is juſt ſuch over Princes, as the Soul hath over the Body or ſenſitive Appetite; by Virtue of this Power he may change Kingdoms, and take them from one and give them to another; he may make and alter, ſuſpend and abrogate Civil Laws, as the Chief Spiri<g ref="char:EOLhyphen"/>tual Prince, if it be for the ſafety of Souls.</p>
+                     <p>In his Seventh Chapter he endeavours to prove this Exorbitant Power of the Pope by reaſons; all which are founded in the Subordi<g ref="char:EOLhyphen"/>nation and Subjection of the Temporal to the Spiritual Sword, (which is a Foundation that will certainly fail him.) However upon this Foundation he thus builds.</p>
+                     <p>The Eccleſiaſtical Republick can command and compel the Tempo<g ref="char:EOLhyphen"/>ral, which is indeed its Subject, to change the Adminiſtration, and to depoſe Princes, and to appoint others, when it cannot otherwiſe defend the Spiritual good. And again, it is not lawfull for Chriſtians to ſuffer an Infidel or Heretical King, if he endeavour to draw his Subjects to his Hereſie or Unbelief. But to judge whether a King do draw to Hereſie or not, belongeth to the Pope, to whom the Care of Religion is committed; therefore it belongs to the Pope to judge whether a King be to be depoſed or not. And if any one ask why the Chriſtians of old, did not depoſe <hi>Nero,</hi> and <hi>Diocletian,</hi> and <hi>Julian</hi> the Apoſtate, and <hi>Valens</hi> the <hi>Arian?</hi> He roundly anſwers, it was not becauſe they wanted Right, but becauſe they wanted Power to do it.</p>
+                     <p>But leſt any ſcrupulous Chriſtian ſhould boggle at thoſe horrid things, which theſe declared Principles muſt of neceſſity lead them to, as Re<g ref="char:EOLhyphen"/>bellion, Murder, Breach of Faith, Violation of Oaths, <hi>&amp;c.</hi> He will tell them that they are not anſwerable for any of theſe things; For, if the Pope ſhould miſtake, and command Vice, and forbid Vertue; yet it were a ſin againſt Conſcience, for the Church not to believe thoſe Vices to be good, and thoſe Vertues to be evil.</p>
+                     <p>All theſe inſtances that I have now laid before you, were of men who lived and died in the Communion of the Church of <hi>Rome,</hi> and moſt of them men of great Eminency both for their Parts and Places; and therefore very likely to underſtand the Religion they profeſſed. Now either theſe men, or our <hi>Explainer</hi> muſt be very much out, and ſtrangely unacquainted with the Principles of their Religion; or elſe the <hi>Explainer</hi> muſt induſtriouſly deſign to put a chear upon thoſe Per<g ref="char:EOLhyphen"/>ſons of Quality to whom he preſents his Scheme. For, nothing can
+<pb n="38" facs="tcp:65014:22"/> be more different than his Explanation, and this Declaration which theſe men have left upon Record. But, I think, the choice is very eaſie which of theſe ought to be believed in this caſe; and if this Cloud of Witneſſes carry it (as undoubtedly they will) againſt one ſingle unauthorized <hi>Explainer,</hi> then certainly he was in the wrong box, when the ſo much boaſted of the Loyalty of the <hi>Roman Catholicks.</hi>
+                     </p>
+                     <p>And now I ſhall only ſubjoyn an account of ſome few of their Pra<g ref="char:EOLhyphen"/>ctices, correſpondent to theſe Principles, and they being put together will, I ſuppoſe, ſufficiently diſcover the miſtake of our <hi>Explainer.</hi>
+                     </p>
+                     <p>
+                        <hi>Leo Iſaurus</hi> Emperour of <hi>Conſtantinople</hi> was excommunicated by Pope <hi>Gregory</hi> the II<hi rend="sup">d.</hi> his Country given away to the <hi>Lombards;</hi> by which means he and his Succeſſors loſt all the Weſtern Empire, which the Pope and the <hi>French</hi> King afterwards ſhared between them.</p>
+                     <p>
+                        <hi>Henry</hi> the IV<hi rend="sup">th.</hi> Emperour of <hi>Germany</hi> was excommunicated by Pope <hi>Gregory</hi> the VII<hi rend="sup">th.</hi> his Subjects abſolved from their Obedience, <hi>Rodulph</hi> Duke of <hi>Sueden</hi> and <hi>Burgundy</hi> ſet up againſt him, to whom a Crown was ſent by the Pope, with this Inſcription, <hi>The Rock gave the Crown to</hi> Peter, <hi>and</hi> Peter <hi>gives it to</hi> Rodulph.</p>
+                     <p>
+                        <hi>Childericus</hi> King of <hi>France,</hi> by the Advice and Authority of Pope <hi>Zachary</hi> the I<hi rend="sup">ſt.</hi> had his Head ſhaven, was thruſt into a Monaſtery, and <hi>Pipinus</hi> Son of <hi>Carolus Martellus</hi> (who was but a Subject and Ser<g ref="char:EOLhyphen"/>vant to the King) was anointed King in his ſtead.</p>
+                     <p>
+                        <hi>Henry</hi> the III<hi rend="sup">d.</hi> King of <hi>France</hi> was killed at the Siege of <hi>Paris,</hi> with an empoyſoned Knife by a <hi>Jacobine</hi> Fryar called <hi>Jaques Clement:</hi> Which Murther, Pope <hi>Sixtus</hi> the V<hi rend="sup">th.</hi> by a ſolemn Oration in the Conſiſtory <hi>September</hi> the 2d. 1589. commended to the Skies, as <hi>Rarum, inſigne, &amp; memorablile facinus.</hi> So publickly was the King killing Doctrine owned by them at that time.</p>
+                     <p>And what effect this Papal approbation did produce, is evident; for upon this encouragement King <hi>Henry</hi> the IV<hi rend="sup">th.</hi> Succeſſor to <hi>Henry</hi> the III<hi rend="sup">d.</hi> was alſo ſtabbed with a conſecrated Dagger, by a Jeſuite named <hi>Ravilliac.</hi> How frequent the excommunicating and depoſing of Prin<g ref="char:EOLhyphen"/>ces, the abſolving of Subjects from their Duty and Obedience, and the ſtirring up of Tumults and Seditions againſt them by Popes and Papa<g ref="char:EOLhyphen"/>lins, hath heretofore been; Hiſtory is ſo full, that it would be an Her<g ref="char:EOLhyphen"/>culean labour to tranſcribe all the inſtances thereof.</p>
+                     <p>Now theſe declared Principles and avowed Practices of <hi>Roman Catholicks</hi> being put together, and compared with our <hi>Explainer</hi>'s profeſſion; may ſufficiently evince how much he hath abuſed thoſe Perſons of Quality, and how unfairly and diſhoneſtly he hath dealt with them in his Explanation of the <hi>Roman Catholick</hi>'s Belief in this Point.</p>
+                     <pb n="39" facs="tcp:65014:22"/>
+                     <p>But one would think he durſt not deal thus, conſidering what a ſolemn Proteſtation he makes in the Cloſe of his Explanation; For, thus he concludes.</p>
+                     <q>
+                        <hi>Theſe we ſincerely and ſolemnly profeſs, as in the ſight of God the ſearcher of all Hearts, taking the words plainly and ſimply in their uſual and familiar ſenſe, without any Equivocation or Mental Reſervation what<g ref="char:EOLhyphen"/>ſoever.</hi>
+                     </q>
+                     <p>Were we not ſo well acquainted with the Power of Diſpenſations, and the force of Mental Reſervation among them; did we not know that by theſe Artifices they can elude the moſt ſolemn Proteſtations, make void all Oaths and Promiſes, and diſſolve any the moſt ſacred Bonds which can be invented to oblige men; it would look very uncharitably to ſuſpect any man after ſuch a ſolemn Proteſtation. But that they can do all this, and think they can do it with a ſafe Conſcience, notwithſtanding their Proteſtation to the contrary, is a ruled Caſe among their Caſuiſts: I ſhall only at preſent trouble you with one inſtance, which is very applicable to the caſe in hand, and with that conclude.</p>
+                     <p>On occaſion of the Powder-plot here in <hi>England,</hi> an Oath of Al<g ref="char:EOLhyphen"/>legiance was thought neceſſary to prevent ſuch horrid attempts in time to come; which a <hi>Roman</hi> Doctor (cited by Arch-Bpiſhop <hi>Uſher</hi> under this Character, B. P. <gap reason="foreign" resp="#OXF" extent="1 word">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. <hi>Epiſtol. I. R. Impreſ. An.</hi> 1609.) ta<g ref="char:EOLhyphen"/>king notice of, laughs aloud at the ſimplicity of it. His words are worth remembring, <hi>Sed vide in tanta aſtutia, quanta ſimplicitas! &amp;c.</hi> But ſee what ſimplicity here is in ſo great Craft! When he had placed all his ſecurity in that Oath, he thought he had framed ſuch a manner of Oath, with ſo many Circumſtances, which no man could any way diſſolve with a ſafe Conſcience. But he could not ſee, that if the Pope diſſolve the Oath, all its Knots, whether of being faithfull to the King, or of admitting no Diſpenſation, are accordingly diſſolved. Yea, I will ſay a thing more admirable; you know, I believe, that an unjuſt Oath, if it be evidently known to be ſuch, or openly declared ſuch, it obligeth no man: That the King's Oath is un<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>, is ſufficiently de<g ref="char:EOLhyphen"/>clared by the Paſtor of the Church himſelf. You ſee now that the Obligatian of it is vaniſhed into ſmoke, and that the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>nd which ſo many wiſe men thought was made of Iron, was <gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Straw.</p>
+                  </div>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
